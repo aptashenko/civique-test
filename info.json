@@ -1,0 +1,760 @@
+{
+  "00-overview": {
+    "name": "Civique Prep",
+    "version": "1.0",
+    "status": "proposed",
+    "architecture": "Modular monolith; Nuxt frontend, Nitro backend and PostgreSQL with TypeORM",
+    "principles": [
+      "Universal Quiz Engine independent of exam content",
+      "Backend is source of truth",
+      "Immutable question snapshots",
+      "Guest access",
+      "Migrate existing training first"
+    ],
+    "assumptions": [
+      "Existing repository not inspected",
+      "Official exam navigation and answer-change rules require verification",
+      "Exam profile proposed: 40 questions, 45 minutes, 80%",
+      "Official knowledge questions and authored situational exercises must be distinguished"
+    ]
+  },
+  "01-modules": {
+    "modules": {
+      "quiz": {
+        "responsibility": "Session lifecycle, answers, scoring",
+        "layers": [
+          "domain",
+          "features",
+          "infrastructure",
+          "presentation"
+        ],
+        "features": [
+          "start-quiz",
+          "submit-answer",
+          "change-answer",
+          "skip-question",
+          "navigate-question",
+          "resume-quiz",
+          "abandon-quiz",
+          "finish-quiz"
+        ]
+      },
+      "questions": {
+        "responsibility": "Question bank, versions, translations"
+      },
+      "training": {
+        "responsibility": "Training configuration and selection"
+      },
+      "exam": {
+        "responsibility": "Exam profiles and selection constraints"
+      },
+      "review": {
+        "responsibility": "Historical attempt breakdown"
+      },
+      "progress": {
+        "responsibility": "Statistics and mistakes"
+      },
+      "vocabulary": {
+        "responsibility": "Glossary and favorites"
+      },
+      "identity": {
+        "responsibility": "User and guest identity"
+      }
+    },
+    "dependencies": [
+      "training -> quiz public API",
+      "exam -> quiz public API",
+      "start use cases -> question selector -> question repository",
+      "progress consumes QuizCompleted",
+      "review reads completed session projection"
+    ],
+    "domainDependencies": "No Vue, Pinia, Nitro or database dependencies in domain"
+  },
+  "02-quiz-config": {
+    "training": {
+      "mode": "training",
+      "questionCount": 10,
+      "allowedQuestionCounts": [
+        5,
+        10,
+        20,
+        40,
+        "all"
+      ],
+      "allowCategorySelection": true,
+      "timeLimitMs": null,
+      "passingScorePercent": null,
+      "shuffleQuestions": true,
+      "shuffleAnswers": true,
+      "showExplanation": true,
+      "showCorrectAnswer": true,
+      "allowNavigation": true,
+      "allowSkip": true,
+      "allowTranslation": true,
+      "allowAnswerChange": false
+    },
+    "exam": {
+      "mode": "exam",
+      "questionCount": 40,
+      "timeLimitMs": 2700000,
+      "passingScorePercent": 80,
+      "shuffleQuestions": true,
+      "shuffleAnswers": true,
+      "showExplanation": false,
+      "showCorrectAnswer": false,
+      "allowNavigation": true,
+      "allowSkip": true,
+      "allowTranslation": false,
+      "allowAnswerChange": true,
+      "allowCategorySelection": false
+    },
+    "rules": [
+      "Freeze resolved configuration at session creation",
+      "Resolve all to actual question count",
+      "Exam settings fixed by selected exam profile",
+      "Training count and category configurable",
+      "No pause in V1"
+    ]
+  },
+  "03-domain-models": {
+    "notation": "TypeScript-like type strings, not JSON Schema",
+    "models": {
+      "SessionOwner": {
+        "variants": [
+          {
+            "type": "user",
+            "userId": "UUID"
+          },
+          {
+            "type": "guest",
+            "guestId": "UUID"
+          }
+        ]
+      },
+      "QuizSession": {
+        "id": "UUID",
+        "owner": "SessionOwner",
+        "config": "QuizConfig",
+        "questions": "QuizSessionQuestion[]",
+        "currentQuestionIndex": "integer",
+        "status": "QuizStatus",
+        "startedAt": "ISO timestamp | null",
+        "expiresAt": "ISO timestamp | null",
+        "finishedAt": "ISO timestamp | null",
+        "completionReason": "manual | timeout | null",
+        "version": "integer"
+      },
+      "QuizSessionQuestion": {
+        "id": "UUID",
+        "position": "integer",
+        "snapshot": "QuestionSnapshot",
+        "status": "QuizQuestionStatus",
+        "answer": "QuizAnswer | null",
+        "skipCount": "integer",
+        "timeSpentMs": "integer"
+      },
+      "QuestionSnapshot": {
+        "questionId": "UUID",
+        "version": "integer",
+        "type": "QuestionType",
+        "text": "string",
+        "options": "AnswerOption[]",
+        "correctOptionIds": "UUID[] (server only)",
+        "explanation": "string | null",
+        "categoryId": "UUID",
+        "translations": "versioned translation map",
+        "sourceType": "official_knowledge | practice_situation"
+      },
+      "AnswerOption": {
+        "id": "UUID",
+        "text": "string"
+      },
+      "QuizAnswer": {
+        "id": "UUID",
+        "sessionQuestionId": "UUID",
+        "selectedOptionIds": "UUID[]",
+        "isCorrect": "boolean (server only until allowed)",
+        "score": "number",
+        "answeredAt": "ISO timestamp",
+        "difficulty": "easy | medium | hard | null"
+      },
+      "QuizAnswerForm": {
+        "sessionQuestionId": "UUID",
+        "selectedOptionIds": "UUID[]"
+      },
+      "QuizResult": {
+        "totalQuestions": "integer",
+        "answeredCount": "integer",
+        "correctCount": "integer",
+        "incorrectCount": "integer",
+        "skippedCount": "integer",
+        "unansweredCount": "integer",
+        "score": "integer",
+        "maxScore": "integer",
+        "scorePercent": "number",
+        "passed": "boolean | null"
+      }
+    },
+    "enums": {
+      "QuizStatus": [
+        "created",
+        "in_progress",
+        "completed",
+        "abandoned"
+      ],
+      "QuizQuestionStatus": [
+        "pending",
+        "skipped",
+        "answered"
+      ],
+      "QuestionType": [
+        "single_select",
+        "multi_select",
+        "true_false"
+      ]
+    },
+    "invariants": [
+      "V1 supports single_select only",
+      "Answered iff answer exists",
+      "Position and option order immutable",
+      "skipCount never resets",
+      "timeSpentMs canonical on session question"
+    ]
+  },
+  "04-session-lifecycle": {
+    "transitions": [
+      [
+        "created",
+        "start",
+        "in_progress"
+      ],
+      [
+        "in_progress",
+        "finish",
+        "completed"
+      ],
+      [
+        "in_progress",
+        "timeout",
+        "completed"
+      ],
+      [
+        "in_progress",
+        "abandon",
+        "abandoned"
+      ]
+    ],
+    "questionTransitions": [
+      [
+        "pending",
+        "skip",
+        "skipped"
+      ],
+      [
+        "skipped",
+        "skip",
+        "skipped"
+      ],
+      [
+        "pending",
+        "submit",
+        "answered"
+      ],
+      [
+        "skipped",
+        "submit",
+        "answered"
+      ],
+      [
+        "answered",
+        "change",
+        "answered"
+      ]
+    ],
+    "navigation": "Navigation does not change question status; next without answer leaves status unchanged",
+    "completion": "Last question opens confirmation screen; explicit finish or timeout completes session",
+    "timer": {
+      "unit": "milliseconds",
+      "authority": "server",
+      "deadline": "startedAt + timeLimitMs",
+      "pause": false,
+      "onExpiry": "UI locks immediately; backend finalizes on next request or background job; rejects new answers after deadline"
+    },
+    "scoring": {
+      "pointsPerCorrect": 1,
+      "pointsPerIncorrect": 0,
+      "pointsPerUnanswered": 0,
+      "scorePercent": "100 * score / totalQuestions",
+      "passed": "scorePercent >= passingScorePercent; null for training",
+      "skippedCount": "final skipped status only",
+      "unansweredCount": "final pending status only",
+      "partialCredit": false
+    },
+    "timeTracking": "Sum active visible visits; approximate client telemetry, not exam deadline authority",
+    "difficulty": "Optional user rating after training feedback; null by default in exam"
+  },
+  "05-quiz-actions": {
+    "start": {
+      "flow": [
+        "Resolve config",
+        "Select questions",
+        "Create snapshots",
+        "Persist session"
+      ],
+      "emptyBank": "QUESTION_BANK_EMPTY",
+      "insufficientTraining": "Offer available count and require confirmation",
+      "insufficientExam": "Reject",
+      "mistakes": "Use available questions",
+      "duplicates": false
+    },
+    "submit": {
+      "allowedQuestionStatuses": [
+        "pending",
+        "skipped"
+      ],
+      "checks": [
+        "Authenticate owner",
+        "Find session question",
+        "Check idempotency record",
+        "Require in_progress",
+        "Check deadline",
+        "Require pending or skipped",
+        "Require nonempty unique option IDs",
+        "Validate membership and exact single-select count"
+      ],
+      "mutation": [
+        "Evaluate server-side",
+        "Save answer",
+        "Set answered",
+        "Preserve skipCount",
+        "Persist atomically"
+      ],
+      "retry": "Same requestId and same payload returns original result without new mutation; different payload conflicts; new requestId for answered question conflicts"
+    },
+    "change": {
+      "allowedMode": "exam",
+      "allowedStatus": "answered",
+      "beforeDeadline": true,
+      "idempotent": true,
+      "effect": "Replace accepted selection and recalculate score without adding another answer"
+    },
+    "skip": {
+      "allowedStatuses": [
+        "pending",
+        "skipped"
+      ],
+      "effect": "Set skipped and increment skipCount once per accepted action",
+      "navigation": "Next position or confirmation screen at end",
+      "idempotent": true
+    },
+    "navigate": {
+      "allowNavigation": "Both backward and arbitrary navigation",
+      "statusMutation": false
+    },
+    "resume": {
+      "effect": "Load persisted session; enforce deadline"
+    },
+    "finish": {
+      "confirmation": true,
+      "timeoutRequiresConfirmation": false,
+      "effect": "Compute final result once and publish QuizCompleted"
+    },
+    "abandon": {
+      "effect": "Mark abandoned; no resume"
+    }
+  },
+  "06-api-contracts": {
+    "status": "Proposed endpoint naming",
+    "endpoints": [
+      {
+        "method": "POST",
+        "path": "/api/quiz/sessions",
+        "action": "start"
+      },
+      {
+        "method": "GET",
+        "path": "/api/quiz/sessions/:id",
+        "action": "resume"
+      },
+      {
+        "method": "POST",
+        "path": "/api/quiz/sessions/:id/answers",
+        "action": "submitAnswer"
+      },
+      {
+        "method": "PATCH",
+        "path": "/api/quiz/sessions/:id/answers/:sessionQuestionId",
+        "action": "changeAnswer"
+      },
+      {
+        "method": "POST",
+        "path": "/api/quiz/sessions/:id/skip",
+        "action": "skip"
+      },
+      {
+        "method": "POST",
+        "path": "/api/quiz/sessions/:id/navigate",
+        "action": "navigate"
+      },
+      {
+        "method": "POST",
+        "path": "/api/quiz/sessions/:id/finish",
+        "action": "finish"
+      },
+      {
+        "method": "POST",
+        "path": "/api/quiz/sessions/:id/abandon",
+        "action": "abandon"
+      },
+      {
+        "method": "GET",
+        "path": "/api/quiz/sessions/:id/review",
+        "action": "review"
+      }
+    ],
+    "submitAnswer": {
+      "request": {
+        "sessionQuestionId": "UUID",
+        "selectedOptionIds": [
+          "UUID"
+        ],
+        "requestId": "UUID"
+      },
+      "response": {
+        "sessionQuestionId": "UUID",
+        "answerId": "UUID",
+        "status": "answered",
+        "answeredAt": "ISO timestamp"
+      },
+      "trainingAdditionalFields": [
+        "isCorrect",
+        "score",
+        "correctOptionIds",
+        "explanation"
+      ],
+      "examForbiddenFields": [
+        "isCorrect",
+        "score",
+        "correctOptionIds",
+        "explanation"
+      ],
+      "replayedFlag": false
+    },
+    "errors": [
+      {
+        "code": "SESSION_NOT_FOUND",
+        "http": 404,
+        "uiAction": "dashboard"
+      },
+      {
+        "code": "ACCESS_DENIED",
+        "http": 403,
+        "uiAction": "show access error"
+      },
+      {
+        "code": "SESSION_EXPIRED",
+        "http": 409,
+        "uiAction": "open results"
+      },
+      {
+        "code": "SESSION_COMPLETED",
+        "http": 409,
+        "uiAction": "open results"
+      },
+      {
+        "code": "INVALID_SESSION_STATUS",
+        "http": 409,
+        "uiAction": "reload session"
+      },
+      {
+        "code": "QUESTION_NOT_FOUND",
+        "http": 404,
+        "uiAction": "reload session"
+      },
+      {
+        "code": "QUESTION_ALREADY_ANSWERED",
+        "http": 409,
+        "uiAction": "load accepted answer"
+      },
+      {
+        "code": "EMPTY_ANSWER",
+        "http": 422,
+        "uiAction": "select option"
+      },
+      {
+        "code": "INVALID_ANSWER_OPTION",
+        "http": 422,
+        "uiAction": "reload question"
+      },
+      {
+        "code": "INVALID_ANSWER_COUNT",
+        "http": 422,
+        "uiAction": "show form error"
+      },
+      {
+        "code": "IDEMPOTENCY_CONFLICT",
+        "http": 409,
+        "uiAction": "reload state"
+      },
+      {
+        "code": "QUESTION_BANK_EMPTY",
+        "http": 422,
+        "uiAction": "show empty state"
+      },
+      {
+        "code": "INSUFFICIENT_QUESTIONS",
+        "http": 422,
+        "uiAction": "offer smaller training or block exam"
+      }
+    ]
+  },
+  "07-persistence": {
+    "storage": {
+      "PostgreSQL": "Canonical sessions, snapshots, answers, results and idempotency",
+      "Pinia": "UI state",
+      "Cookie": "Secure guest or auth identity",
+      "LocalStorage": "UI preferences"
+    },
+    "tables": [
+      "users",
+      "guests",
+      "questions",
+      "question_versions",
+      "question_translations",
+      "quiz_sessions",
+      "quiz_session_questions",
+      "quiz_answers",
+      "quiz_results",
+      "idempotency_records",
+      "vocabulary_terms",
+      "vocabulary_favorites"
+    ],
+    "resume": {
+      "navigation": true,
+      "reload": true,
+      "browserClose": true,
+      "crossDeviceAuthenticated": true,
+      "crossDeviceGuest": false
+    },
+    "activeSessionLimit": {
+      "training": 1,
+      "exam": 1,
+      "scope": "owner",
+      "onConflict": "Resume or abandon existing attempt"
+    },
+    "guest": {
+      "identity": "Server-issued protected guest identifier",
+      "claimAfterRegistration": "Supported with proof of guest ownership"
+    },
+    "concurrency": {
+      "uniqueAnswer": "UNIQUE(session_question_id)",
+      "idempotencyScope": "owner + session + requestId",
+      "payloadComparison": "Canonical operation and payload",
+      "transaction": "Lock session row, check deadline and state, persist mutation and idempotency result atomically",
+      "events": "Persist completion event once; consumers deduplicate"
+    },
+    "snapshots": {
+      "immutable": true,
+      "retainOriginalText": true,
+      "retainOptionOrder": true,
+      "retainTranslations": true,
+      "retainAfterBankChanges": true
+    }
+  },
+  "08-ui-routes": {
+    "routes": {
+      "/": "Dashboard",
+      "/quiz": "Training setup",
+      "/quiz/:sessionId": "Training player",
+      "/exam": "Exam setup",
+      "/exam/:sessionId": "Exam player",
+      "/review": "Completed attempt history",
+      "/review/:sessionId": "Attempt breakdown",
+      "/progress": "Statistics",
+      "/vocabulary": "Glossary"
+    },
+    "dashboard": [
+      "Resume session",
+      "Start training",
+      "Start exam",
+      "Repeat mistakes",
+      "Progress"
+    ],
+    "player": [
+      "Question text",
+      "Options",
+      "Progress",
+      "Navigation",
+      "Skip",
+      "Submit",
+      "Exam timer",
+      "Finish confirmation"
+    ],
+    "review": {
+      "defaultFilter": "all",
+      "filters": [
+        "all",
+        "incorrect",
+        "skipped_or_unanswered"
+      ],
+      "fields": [
+        "snapshot text",
+        "snapshot options in attempt order",
+        "selected answer",
+        "correct answer",
+        "explanation"
+      ],
+      "completedOnly": true
+    },
+    "feedback": {
+      "training": "Immediate correctness, correct option and explanation; summary at finish",
+      "exam": "Selection acknowledgement only; summary at finish; correct options and explanations in review"
+    }
+  },
+  "09-learning-modules": {
+    "progressV1": [
+      "Questions answered",
+      "Accuracy",
+      "Completed training and exam counts",
+      "Category statistics",
+      "Attempt history",
+      "Mistake list"
+    ],
+    "vocabularyV1": [
+      "Terms",
+      "French A2 definitions",
+      "Translations",
+      "Usage examples",
+      "Favorites"
+    ],
+    "translations": {
+      "original": "fr",
+      "supported": [
+        "uk",
+        "ru",
+        "en"
+      ],
+      "fields": [
+        "question text",
+        "options",
+        "explanation"
+      ],
+      "source": "Pre-generated, verified and linked to original version",
+      "availableDuringExam": false
+    },
+    "v2": [
+      "Spaced repetition",
+      "AI explanations",
+      "Vocabulary quizzes",
+      "Audio",
+      "Additional question types"
+    ]
+  },
+  "10-testing": {
+    "unit": [
+      "Submit pending question",
+      "Submit skipped question preserves skipCount",
+      "Reject empty, duplicate, foreign or excess option IDs",
+      "Reject unsupported question type",
+      "Reject completed or expired session",
+      "Reject second submit with new requestId",
+      "Change answer only in exam before deadline",
+      "Navigation preserves status",
+      "Repeated intentional skip increments count",
+      "Finish with unanswered questions scores zero for them",
+      "80 percent threshold",
+      "Timeout completion",
+      "Snapshot unchanged after question bank edit"
+    ],
+    "integration": [
+      "Same request replay returns original result",
+      "Same requestId different payload conflicts",
+      "Concurrent submissions create one answer",
+      "Concurrent finish and submit serialized",
+      "Guest ownership enforced",
+      "Cross-device authenticated resume",
+      "Active session limit enforced",
+      "Exam response never leaks answer keys",
+      "Completion event deduplicated",
+      "Insufficient question bank handling"
+    ],
+    "e2e": [
+      "Training flow",
+      "Exam flow with timeout",
+      "Skip then return and answer",
+      "Reload and resume",
+      "Review historical snapshot",
+      "Guest access"
+    ]
+  },
+  "11-roadmap": {
+    "phases": [
+      {
+        "phase": 1,
+        "name": "Domain",
+        "tasks": [
+          "QuizConfig",
+          "QuizSession",
+          "QuizSessionQuestion",
+          "QuizAnswer",
+          "QuestionSnapshot",
+          "QuizResult",
+          "Unit tests"
+        ]
+      },
+      {
+        "phase": 2,
+        "name": "Engine",
+        "tasks": [
+          "QuestionSelector",
+          "StartQuiz",
+          "SubmitAnswer",
+          "SkipQuestion",
+          "NavigateQuestion",
+          "ChangeAnswer",
+          "FinishQuiz"
+        ]
+      },
+      {
+        "phase": 3,
+        "name": "Persistence",
+        "tasks": [
+          "Repository",
+          "PostgreSQL",
+          "Guest identity",
+          "ResumeQuiz",
+          "Idempotency",
+          "Transactions"
+        ]
+      },
+      {
+        "phase": 4,
+        "name": "UI",
+        "tasks": [
+          "Migrate current training",
+          "QuizPlayer",
+          "Dashboard",
+          "Exam",
+          "Timer",
+          "Review"
+        ]
+      },
+      {
+        "phase": 5,
+        "name": "Learning",
+        "tasks": [
+          "Progress",
+          "Vocabulary",
+          "Translations",
+          "Repeat mistakes"
+        ]
+      }
+    ],
+    "releaseOrder": "Migrate training first, then exam and review, then learning modules",
+    "verification": [
+      "Inspect existing repository before migration",
+      "Verify official exam profile and interaction rules",
+      "Confirm proposed guest and retention policies"
+    ]
+  }
+}

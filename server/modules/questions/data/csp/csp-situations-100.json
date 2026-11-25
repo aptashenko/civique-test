@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "csp-situation-001",
+    "number": 1,
+    "category": "republican_values",
+    "question": "Un employeur refuse une candidate uniquement parce qu’elle est une femme. Que peut-elle faire ?",
+    "options": [
+      "Demander à un homme de postuler à sa place",
+      "Accepter cette décision",
+      "Renoncer à travailler",
+      "Signaler une discrimination"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-002",
+    "number": 2,
+    "category": "republican_values",
+    "question": "Un voisin pratique une religion différente de la vôtre. Comment agir ?",
+    "options": [
+      "Exiger son départ",
+      "L’empêcher de recevoir ses amis",
+      "Respecter sa liberté de religion",
+      "L’obliger à changer de religion"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-003",
+    "number": 3,
+    "category": "republican_values",
+    "question": "Dans une mairie, un agent veut favoriser les personnes de sa religion. Que doit-il faire ?",
+    "options": [
+      "Servir d’abord ses coreligionnaires",
+      "Refuser les personnes sans religion",
+      "Demander la religion de chaque usager",
+      "Traiter tous les usagers de manière égale"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-004",
+    "number": 4,
+    "category": "republican_values",
+    "question": "Une amie ne souhaite pratiquer aucune religion. En a-t-elle le droit ?",
+    "options": [
+      "Non, elle doit choisir une religion",
+      "Seulement avec l’accord du maire",
+      "Oui, elle est libre de ses convictions",
+      "Seulement si sa famille accepte"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-005",
+    "number": 5,
+    "category": "republican_values",
+    "question": "Une personne critique pacifiquement une décision du gouvernement. Quelle attitude respecter ?",
+    "options": [
+      "Demander son arrestation pour cette seule raison",
+      "Lui interdire de parler de politique",
+      "L’obliger à soutenir le gouvernement",
+      "Reconnaître sa liberté d’expression"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-006",
+    "number": 6,
+    "category": "republican_values",
+    "question": "Dans un débat, quelqu’un n’est pas d’accord avec vous. Comment réagir ?",
+    "options": [
+      "Le menacer",
+      "Publier son adresse pour l’intimider",
+      "L’empêcher de parler par la force",
+      "Échanger sans violence ni insultes"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-007",
+    "number": 7,
+    "category": "republican_values",
+    "question": "Une association refuse un bénévole uniquement à cause de son origine. Comment qualifier ce refus ?",
+    "options": [
+      "Une règle de laïcité",
+      "Une obligation républicaine",
+      "Une discrimination",
+      "Une forme de fraternité"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-008",
+    "number": 8,
+    "category": "republican_values",
+    "question": "Une collègue veut exercer un métier souvent occupé par des hommes. Que lui dire ?",
+    "options": [
+      "Ce métier est réservé aux hommes",
+      "Elle doit choisir un métier féminin",
+      "Elle peut choisir ce métier selon ses compétences",
+      "Elle doit demander l’accord de son mari"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-009",
+    "number": 9,
+    "category": "republican_values",
+    "question": "Votre enfant fréquente une école publique. Un parent demande que seuls les enfants de sa religion soient admis. Quelle réponse donner ?",
+    "options": [
+      "L’école publique accueille les enfants sans distinction de religion",
+      "Les parents peuvent exclure les autres enfants",
+      "La religion majoritaire doit décider",
+      "L’école doit choisir une religion officielle"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-010",
+    "number": 10,
+    "category": "republican_values",
+    "question": "Une personne vous demande de signer une pétition pacifique. Que pouvez-vous faire ?",
+    "options": [
+      "Interdire toute pétition",
+      "Demander une autorisation à votre employeur",
+      "Choisir librement de signer ou non",
+      "Signer obligatoirement"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-011",
+    "number": 11,
+    "category": "republican_values",
+    "question": "Un ami affirme que les femmes doivent obéir aux hommes. Quel principe lui rappeler ?",
+    "options": [
+      "Le droit du mari de décider seul",
+      "La supériorité des hommes",
+      "L’inégalité devant la loi",
+      "L’égalité entre les femmes et les hommes"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-012",
+    "number": 12,
+    "category": "republican_values",
+    "question": "Une personne handicapée veut participer à une activité ouverte à tous. Quelle attitude adopter ?",
+    "options": [
+      "Lui interdire de participer aux activités publiques",
+      "Exiger qu’elle cache son handicap",
+      "L’exclure à cause de son handicap",
+      "Favoriser son accès à l’activité"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-013",
+    "number": 13,
+    "category": "republican_values",
+    "question": "Un inconnu tombe dans la rue et vous pouvez appeler les secours sans danger. Que faire ?",
+    "options": [
+      "Le filmer au lieu de l’aider",
+      "L’ignorer parce que vous ne le connaissez pas",
+      "Lui venir en aide en alertant les secours",
+      "Attendre uniquement sa famille"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-014",
+    "number": 14,
+    "category": "republican_values",
+    "question": "Une mairie organise un événement pour le 14 juillet. Quel symbole national peut-elle afficher ?",
+    "options": [
+      "Le drapeau d’une entreprise",
+      "Le drapeau d’un club sportif comme drapeau national",
+      "Le drapeau d’un parti politique",
+      "Le drapeau bleu, blanc, rouge"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-015",
+    "number": 15,
+    "category": "republican_values",
+    "question": "À une cérémonie officielle, vous entendez la Marseillaise. De quoi s’agit-il ?",
+    "options": [
+      "De l’hymne national français",
+      "De l’hymne d’une ville",
+      "D’une chanson obligatoire dans toutes les religions",
+      "D’une publicité"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-016",
+    "number": 16,
+    "category": "republican_values",
+    "question": "Votre voisin change de religion. Que pouvez-vous exiger de lui ?",
+    "options": [
+      "Qu’il obtienne votre autorisation",
+      "Qu’il respecte la loi comme tout le monde",
+      "Qu’il quitte le quartier",
+      "Qu’il revienne à son ancienne religion"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-017",
+    "number": 17,
+    "category": "republican_values",
+    "question": "Une personne publie des menaces contre un groupe religieux. La liberté d’expression permet-elle ces menaces ?",
+    "options": [
+      "Oui, toutes les menaces sont autorisées",
+      "Oui, si le groupe est minoritaire",
+      "Oui, si elles sont publiées anonymement",
+      "Non, la liberté d’expression a des limites légales"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-018",
+    "number": 18,
+    "category": "republican_values",
+    "question": "Un agent public vous demande un paiement personnel pour traiter votre dossier plus vite. Comment réagir ?",
+    "options": [
+      "Payer discrètement",
+      "Demander un reçu personnel à l’agent",
+      "Refuser et signaler la situation",
+      "Proposer un cadeau plus cher"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-019",
+    "number": 19,
+    "category": "republican_values",
+    "question": "Dans un service public, deux personnes ont des opinions politiques opposées. Comment doivent-elles être traitées ?",
+    "options": [
+      "Selon leur popularité",
+      "Selon leur parti préféré",
+      "Selon leur soutien au gouvernement",
+      "Sans discrimination liée à leurs opinions"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-020",
+    "number": 20,
+    "category": "republican_values",
+    "question": "Une famille vient d’arriver dans votre quartier et cherche des informations. Quel geste illustre la fraternité ?",
+    "options": [
+      "L’aider à trouver les services utiles",
+      "L’empêcher de rencontrer les voisins",
+      "Refuser de lui parler à cause de son origine",
+      "Lui imposer vos convictions"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-021",
+    "number": 21,
+    "category": "political_system",
+    "question": "Votre rue présente un problème d’éclairage public. À qui pouvez-vous le signaler en premier ?",
+    "options": [
+      "À la mairie",
+      "À l’ambassade de France",
+      "Au Parlement européen",
+      "Au Sénat"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-022",
+    "number": 22,
+    "category": "political_system",
+    "question": "Vous souhaitez contester une décision de justice. Quelle démarche est appropriée ?",
+    "options": [
+      "Utiliser les voies de recours prévues par la loi",
+      "Refuser toute procédure légale",
+      "Modifier vous-même le jugement",
+      "Menacer le juge"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-023",
+    "number": 23,
+    "category": "political_system",
+    "question": "Un ministre commet une infraction. Que s’applique-t-il à lui ?",
+    "options": [
+      "Une exemption automatique de toute loi",
+      "Aucune responsabilité possible",
+      "Uniquement les règles de son parti",
+      "La loi, comme aux autres personnes"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-024",
+    "number": 24,
+    "category": "political_system",
+    "question": "Un ami affirme que le président peut décider seul de toutes les condamnations judiciaires. Que lui répondre ?",
+    "options": [
+      "Le maire décide des condamnations nationales",
+      "Les ministres choisissent toutes les peines",
+      "La justice est indépendante",
+      "Le président remplace tous les juges"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-025",
+    "number": 25,
+    "category": "political_system",
+    "question": "Vous voulez suivre les débats sur un projet de loi à l’Assemblée nationale. Qui y siège ?",
+    "options": [
+      "Les maires de toutes les communes",
+      "Les députés",
+      "Les préfets",
+      "Les policiers municipaux"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-026",
+    "number": 26,
+    "category": "political_system",
+    "question": "Une personne française majeure, inscrite sur les listes électorales et jouissant de ses droits civiques, reçoit sa carte électorale. Peut-elle voter à la présidentielle ?",
+    "options": [
+      "Non, seuls les élus votent",
+      "Non, il faut avoir 30 ans",
+      "Oui",
+      "Non, il faut être propriétaire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-027",
+    "number": 27,
+    "category": "political_system",
+    "question": "Un électeur veut voter sans montrer son choix à ses collègues. Quel principe le protège ?",
+    "options": [
+      "Le vote familial unique",
+      "Le vote par l’employeur",
+      "Le vote public obligatoire",
+      "Le secret du vote"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-028",
+    "number": 28,
+    "category": "political_system",
+    "question": "Votre commune organise des élections municipales. Quels représentants sont élus directement par les électeurs ?",
+    "options": [
+      "Les préfets",
+      "Les juges",
+      "Les conseillers municipaux",
+      "Les ministres"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-029",
+    "number": 29,
+    "category": "political_system",
+    "question": "Après les élections municipales, qui élit normalement le maire ?",
+    "options": [
+      "Le préfet seul",
+      "Le président de la République",
+      "Le conseil municipal",
+      "Le tribunal judiciaire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-030",
+    "number": 30,
+    "category": "political_system",
+    "question": "Vous êtes français et souhaitez choisir les députés. À quelles élections participez-vous ?",
+    "options": [
+      "Aux élections législatives",
+      "Aux élections présidentielles",
+      "Aux élections municipales",
+      "Aux élections régionales"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-031",
+    "number": 31,
+    "category": "political_system",
+    "question": "Un candidat perd une élection régulière. Quelle attitude respecte la démocratie ?",
+    "options": [
+      "Supprimer les bulletins des adversaires",
+      "Respecter le résultat et utiliser les recours légaux si nécessaire",
+      "Menacer les électeurs",
+      "Prendre le pouvoir par la force"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-032",
+    "number": 32,
+    "category": "political_system",
+    "question": "Vous souhaitez connaître le texte officiel d’une loi française. Quel site consulter ?",
+    "options": [
+      "Légifrance",
+      "Un site de réservation d’hôtel",
+      "Un forum de jeux vidéo",
+      "Un site de petites annonces"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-033",
+    "number": 33,
+    "category": "political_system",
+    "question": "Une association veut organiser une manifestation pacifique sur la voie publique. Que doit-elle faire ?",
+    "options": [
+      "Respecter les règles de déclaration applicables",
+      "Bloquer les secours volontairement",
+      "Organiser des violences",
+      "Ignorer toutes les obligations légales"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-034",
+    "number": 34,
+    "category": "political_system",
+    "question": "Une personne pense que son désaccord politique l’autorise à ne pas respecter une loi. Est-ce vrai ?",
+    "options": [
+      "Oui, toujours",
+      "Oui, avec l’accord de ses amis",
+      "Non, elle doit respecter la loi et peut demander son changement légalement",
+      "Oui, si elle est en colère"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-035",
+    "number": 35,
+    "category": "political_system",
+    "question": "Vous souhaitez obtenir une information sur le budget de votre commune. À quelle institution vous adresser ?",
+    "options": [
+      "À une ambassade étrangère",
+      "Au Conseil européen",
+      "À la mairie",
+      "À un commissariat pour toute question budgétaire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-036",
+    "number": 36,
+    "category": "political_system",
+    "question": "Une personne vous propose de voter plusieurs fois lors du même scrutin. Que faire ?",
+    "options": [
+      "Accepter si les votes sont identiques",
+      "Utiliser la carte électorale d’un voisin",
+      "Voter une fois par bureau de vote",
+      "Refuser cette fraude"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-037",
+    "number": 37,
+    "category": "political_system",
+    "question": "Un ami dit que le Parlement français se limite à l’Assemblée nationale. Quelle institution oublie-t-il ?",
+    "options": [
+      "La préfecture",
+      "Le Sénat",
+      "La mairie",
+      "La Cour des comptes"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-038",
+    "number": 38,
+    "category": "political_system",
+    "question": "Vous êtes victime d’une décision administrative que vous pensez illégale. Quel type de tribunal peut généralement examiner ce litige ?",
+    "options": [
+      "Le tribunal administratif",
+      "Le Sénat",
+      "Le conseil municipal",
+      "Le bureau de vote"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-039",
+    "number": 39,
+    "category": "political_system",
+    "question": "Un citoyen veut participer à la vie locale sans être élu. Que peut-il faire ?",
+    "options": [
+      "Se déclarer maire sans élection",
+      "Participer à une réunion publique de quartier",
+      "Prendre les décisions du conseil municipal à sa place",
+      "Interdire les réunions des autres"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-040",
+    "number": 40,
+    "category": "political_system",
+    "question": "Un ami veut savoir qui représente l’État dans un département. Vers quelle fonction l’orienter ?",
+    "options": [
+      "Le député européen de son choix",
+      "Le directeur d’un supermarché",
+      "Le président d’une association sportive",
+      "Le préfet"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-041",
+    "number": 41,
+    "category": "rights_and_duties",
+    "question": "Vous êtes témoin de violences dans un couple et la victime est en danger immédiat. Quel numéro appeler ?",
+    "options": [
+      "39 49",
+      "15 pour déposer plainte",
+      "17",
+      "36 46"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-042",
+    "number": 42,
+    "category": "rights_and_duties",
+    "question": "Une amie subit des violences de son conjoint. Que lui conseiller ?",
+    "options": [
+      "Accepter les violences car elles sont privées",
+      "Garder le silence obligatoirement",
+      "Chercher de l’aide et contacter les autorités compétentes",
+      "Attendre l’autorisation de son conjoint"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-043",
+    "number": 43,
+    "category": "rights_and_duties",
+    "question": "Une famille veut imposer un mariage à sa fille majeure. Quel droit faut-il respecter ?",
+    "options": [
+      "Le choix du voisinage",
+      "Le choix obligatoire des parents",
+      "Le droit de contraindre un adulte au mariage",
+      "Le libre consentement au mariage"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-044",
+    "number": 44,
+    "category": "rights_and_duties",
+    "question": "Vous trouvez un portefeuille contenant des papiers d’identité dans la rue. Que faire ?",
+    "options": [
+      "Vendre le portefeuille et son contenu",
+      "Le remettre à un service compétent pour retrouver son propriétaire",
+      "Utiliser les papiers",
+      "Garder l’argent"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-045",
+    "number": 45,
+    "category": "rights_and_duties",
+    "question": "Un voisin souhaite déposer ses meubles cassés sur le trottoir sans autorisation. Que lui conseiller ?",
+    "options": [
+      "Les abandonner la nuit",
+      "Utiliser la déchèterie ou le service des encombrants selon les règles locales",
+      "Les jeter dans une rivière",
+      "Les brûler dans la rue"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-046",
+    "number": 46,
+    "category": "rights_and_duties",
+    "question": "Vous avez terminé votre boisson dans un parc. Que faire de la bouteille ?",
+    "options": [
+      "La laisser sur un banc",
+      "La déposer dans une poubelle adaptée",
+      "La jeter dans un cours d’eau",
+      "La jeter par terre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-047",
+    "number": 47,
+    "category": "rights_and_duties",
+    "question": "Un automobiliste est impliqué dans un accident avec des blessés. Quelle conduite adopter ?",
+    "options": [
+      "Attendre que les blessés quittent les lieux",
+      "Partir sans prévenir",
+      "Cacher les dégâts",
+      "S’arrêter en sécurité et alerter les secours"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-048",
+    "number": 48,
+    "category": "rights_and_duties",
+    "question": "Un ami vous propose d’utiliser un faux document administratif. Que faire ?",
+    "options": [
+      "Accepter si le document paraît vrai",
+      "Le vendre à une autre personne",
+      "Refuser et utiliser des documents authentiques",
+      "Le modifier pour éviter les contrôles"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-049",
+    "number": 49,
+    "category": "rights_and_duties",
+    "question": "Une personne est victime d’un vol. Où peut-elle déposer plainte ?",
+    "options": [
+      "Au bureau de vote",
+      "Dans un commissariat ou une brigade de gendarmerie",
+      "Uniquement dans un supermarché",
+      "Auprès de son voisin"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-050",
+    "number": 50,
+    "category": "rights_and_duties",
+    "question": "Un propriétaire refuse un logement à une personne uniquement en raison de sa couleur de peau. Que peut faire cette personne ?",
+    "options": [
+      "Accepter car cette discrimination est légale",
+      "Changer obligatoirement de nationalité",
+      "Renoncer à toute recherche de logement",
+      "Signaler la discrimination et faire valoir ses droits"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-051",
+    "number": 51,
+    "category": "rights_and_duties",
+    "question": "Un enfant est victime de mauvais traitements. Quel numéro est dédié à l’enfance en danger ?",
+    "options": [
+      "39 49",
+      "18 pour toute démarche scolaire",
+      "36 46",
+      "119"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-052",
+    "number": 52,
+    "category": "rights_and_duties",
+    "question": "Vous recevez un avis d’imposition et pensez qu’il contient une erreur. Que faire ?",
+    "options": [
+      "Détruire l’avis",
+      "Ignorer définitivement le courrier",
+      "Falsifier les montants",
+      "Contacter l’administration fiscale pour demander une correction"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-053",
+    "number": 53,
+    "category": "rights_and_duties",
+    "question": "Vous organisez une fête bruyante tard le soir. Un voisin vous demande de réduire le bruit. Quelle réaction adopter ?",
+    "options": [
+      "Réduire le bruit et respecter la tranquillité du voisinage",
+      "Affirmer que le bruit nocturne est toujours autorisé",
+      "Menacer le voisin",
+      "Augmenter le volume"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-054",
+    "number": 54,
+    "category": "rights_and_duties",
+    "question": "Vous voulez publier une photo privée d’un collègue identifiable prise chez lui sans son accord. Quelle attitude adopter ?",
+    "options": [
+      "Demander son autorisation avant publication",
+      "Vendre la photo sans son accord",
+      "Menacer de publier la photo",
+      "Publier sans réfléchir"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-055",
+    "number": 55,
+    "category": "rights_and_duties",
+    "question": "Un ami vous demande de cacher une personne qu’il exploite par la force. Que faire ?",
+    "options": [
+      "Demander une part des bénéfices",
+      "Refuser et signaler la situation aux autorités",
+      "Confisquer aussi ses papiers",
+      "Participer à l’exploitation"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-056",
+    "number": 56,
+    "category": "rights_and_duties",
+    "question": "Vous apercevez un départ de feu dans un immeuble. Quelle action est appropriée ?",
+    "options": [
+      "Vous mettre en sécurité et appeler les pompiers",
+      "Attendre la fin de l’incendie avant de prévenir",
+      "Entrer dans les flammes sans protection",
+      "Bloquer la sortie"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-057",
+    "number": 57,
+    "category": "rights_and_duties",
+    "question": "Vous empruntez un livre à la bibliothèque municipale. Quelle obligation avez-vous ?",
+    "options": [
+      "Respecter les conditions du prêt et rendre le livre",
+      "Garder le livre définitivement",
+      "Le vendre",
+      "Déchirer les pages qui vous déplaisent"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-058",
+    "number": 58,
+    "category": "rights_and_duties",
+    "question": "Une personne veut régler un conflit avec son voisin par des coups. Que lui conseiller ?",
+    "options": [
+      "Frapper le voisin",
+      "Détruire ses biens",
+      "Organiser une vengeance collective",
+      "Chercher une solution pacifique ou un recours légal"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-059",
+    "number": 59,
+    "category": "rights_and_duties",
+    "question": "Vous souhaitez réduire vos déchets ménagers. Quel choix est adapté ?",
+    "options": [
+      "Brûler tous les emballages à domicile",
+      "Mélanger systématiquement tous les déchets",
+      "Jeter les objets utilisables dans la nature",
+      "Réutiliser les objets et trier les déchets selon les consignes"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-060",
+    "number": 60,
+    "category": "rights_and_duties",
+    "question": "Vous recevez une amende que vous estimez injustifiée. Que faire ?",
+    "options": [
+      "Utiliser l’identité d’une autre personne",
+      "La contester selon la procédure indiquée",
+      "Menacer l’agent",
+      "Modifier l’avis d’amende"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-061",
+    "number": 61,
+    "category": "history_geography_culture",
+    "question": "Vous visitez Paris et souhaitez découvrir un grand musée d’art dans un ancien palais royal. Où aller ?",
+    "options": [
+      "Au port de Marseille",
+      "À la mairie de Lyon",
+      "Au stade de Lille",
+      "Au Louvre"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-062",
+    "number": 62,
+    "category": "history_geography_culture",
+    "question": "Votre enfant prépare un exposé sur l’origine de la Révolution française. Quel événement de 1789 peut-il présenter ?",
+    "options": [
+      "La création de la CEE",
+      "La signature de l’armistice de 1918",
+      "La prise de la Bastille",
+      "La création de la Ve République"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-063",
+    "number": 63,
+    "category": "history_geography_culture",
+    "question": "Vous participez à une cérémonie le 11 novembre. Quel événement est commémoré ?",
+    "options": [
+      "La prise de la Bastille",
+      "Le début de la Révolution française",
+      "L’armistice de 1918",
+      "La création de l’euro"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-064",
+    "number": 64,
+    "category": "history_geography_culture",
+    "question": "Vous assistez à une cérémonie le 8 mai. Quel événement historique explique cette date ?",
+    "options": [
+      "La victoire de 1945 en Europe",
+      "La fin de la guerre de 1914-1918",
+      "La création de la Ve République",
+      "Le sacre de Napoléon"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-065",
+    "number": 65,
+    "category": "history_geography_culture",
+    "question": "Vous préparez un voyage vers une ville française au bord de la Méditerranée. Laquelle choisir ?",
+    "options": [
+      "Rennes",
+      "Marseille",
+      "Strasbourg",
+      "Lille"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-066",
+    "number": 66,
+    "category": "history_geography_culture",
+    "question": "Vous souhaitez passer des vacances sur la côte ouest de la France métropolitaine. Quel océan pouvez-vous y trouver ?",
+    "options": [
+      "L’océan Pacifique",
+      "L’océan Indien",
+      "L’océan Atlantique",
+      "L’océan Arctique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-067",
+    "number": 67,
+    "category": "history_geography_culture",
+    "question": "Vous préparez une randonnée dans les montagnes à la frontière franco-italienne. Quelle chaîne choisir ?",
+    "options": [
+      "Les Pyrénées à la frontière espagnole",
+      "Le Massif central",
+      "Les Alpes",
+      "Les Vosges"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-068",
+    "number": 68,
+    "category": "history_geography_culture",
+    "question": "Votre enfant lit Le Corbeau et le Renard. Quel auteur peut-il présenter ?",
+    "options": [
+      "Napoléon Ier",
+      "Victor Hugo",
+      "Paul Cézanne",
+      "Jean de La Fontaine"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-069",
+    "number": 69,
+    "category": "history_geography_culture",
+    "question": "Vous cherchez une pièce de théâtre classique de Molière. Quel titre choisir ?",
+    "options": [
+      "Le Malade imaginaire",
+      "Les Fleurs du mal",
+      "Les Misérables",
+      "Le Petit Prince"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-070",
+    "number": 70,
+    "category": "history_geography_culture",
+    "question": "Vous accompagnez un ami à une exposition de Paul Cézanne. Quel type d’œuvres allez-vous principalement découvrir ?",
+    "options": [
+      "Des lois",
+      "Des peintures",
+      "Des chansons populaires",
+      "Des films documentaires"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-071",
+    "number": 71,
+    "category": "history_geography_culture",
+    "question": "Vous visitez un mémorial consacré à la Shoah. Quel sujet y est abordé ?",
+    "options": [
+      "La Révolution française",
+      "La création de l’Union européenne",
+      "La construction du métro parisien",
+      "La persécution et l’extermination des Juifs d’Europe par les nazis"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-072",
+    "number": 72,
+    "category": "history_geography_culture",
+    "question": "Un ami veut visiter un département français d’outre-mer. Quelle destination peut-il choisir ?",
+    "options": [
+      "Madagascar",
+      "La Belgique",
+      "La Réunion",
+      "Le Canada"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-073",
+    "number": 73,
+    "category": "history_geography_culture",
+    "question": "Vous prévoyez un voyage en Corse. Dans quelle mer se trouve cette île ?",
+    "options": [
+      "La mer Noire",
+      "La mer Rouge",
+      "La Méditerranée",
+      "La mer Baltique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-074",
+    "number": 74,
+    "category": "history_geography_culture",
+    "question": "Votre enfant étudie les institutions créées en 1958. De quelle République parle-t-il ?",
+    "options": [
+      "La IIe République",
+      "La Ve République",
+      "La IIIe République",
+      "La Ier République"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-075",
+    "number": 75,
+    "category": "history_geography_culture",
+    "question": "Vous découvrez un monument dédié à Charles de Gaulle. Quel rôle historique a-t-il joué ?",
+    "options": [
+      "Il a peint la Joconde",
+      "Il a participé à la fondation de la Ve République",
+      "Il était roi en 1789",
+      "Il a écrit les fables de La Fontaine"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-076",
+    "number": 76,
+    "category": "history_geography_culture",
+    "question": "Vous préparez un exposé sur l’école républicaine à la fin du XIXe siècle. Quel personnage évoquer ?",
+    "options": [
+      "Albert Camus",
+      "Paul Cézanne",
+      "Louis XVI",
+      "Jules Ferry"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-077",
+    "number": 77,
+    "category": "history_geography_culture",
+    "question": "Un ami lit Les Misérables et souhaite connaître son auteur. Que lui répondre ?",
+    "options": [
+      "Molière",
+      "Simone de Beauvoir",
+      "Charles Baudelaire",
+      "Victor Hugo"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-078",
+    "number": 78,
+    "category": "history_geography_culture",
+    "question": "Vous vous promenez près de la tour Eiffel. Dans quelle ville êtes-vous ?",
+    "options": [
+      "Bordeaux",
+      "Toulouse",
+      "Nantes",
+      "Paris"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-079",
+    "number": 79,
+    "category": "history_geography_culture",
+    "question": "Vous préparez une visite culturelle à Lyon et voulez voir les deux grands cours d’eau qui s’y rejoignent. Lesquels ?",
+    "options": [
+      "Le Rhône et la Saône",
+      "La Loire et la Garonne",
+      "La Seine et la Marne",
+      "Le Rhin et la Moselle"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-080",
+    "number": 80,
+    "category": "history_geography_culture",
+    "question": "Vous visitez un monument consacré à l’abolition définitive de l’esclavage en France. Quelle année devez-vous retenir ?",
+    "options": [
+      "1918",
+      "1848",
+      "1958",
+      "1789"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-081",
+    "number": 81,
+    "category": "living_in_france",
+    "question": "Votre enfant a quatre ans et vous pensez le laisser sans instruction jusqu’à six ans. Quelle règle devez-vous respecter ?",
+    "options": [
+      "L’instruction est facultative jusqu’à dix ans",
+      "L’instruction est obligatoire dès trois ans",
+      "Seuls les enfants français doivent recevoir une instruction",
+      "L’instruction commence obligatoirement à sept ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-082",
+    "number": 82,
+    "category": "living_in_france",
+    "question": "Vous venez d’avoir un enfant en France. Quelle démarche administrative effectuer ?",
+    "options": [
+      "Déclarer la naissance à l’état civil dans le délai légal",
+      "Déclarer seulement la naissance à votre employeur",
+      "Attendre son entrée à l’école",
+      "Attendre ses dix-huit ans"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-083",
+    "number": 83,
+    "category": "living_in_france",
+    "question": "Vous souhaitez vous marier avec votre partenaire en France. Quelle cérémonie donne au mariage sa reconnaissance légale ?",
+    "options": [
+      "Le mariage civil à la mairie",
+      "Un repas avec des témoins",
+      "Une fête familiale seule",
+      "Une cérémonie religieuse seule"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-084",
+    "number": 84,
+    "category": "living_in_france",
+    "question": "Votre enfant termine l’école élémentaire. Dans quel établissement poursuit-il normalement ses études ?",
+    "options": [
+      "À l’école maternelle",
+      "Dans une préfecture",
+      "Au collège",
+      "À l’université"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-085",
+    "number": 85,
+    "category": "living_in_france",
+    "question": "Vous cherchez un emploi salarié. Quel organisme public peut vous accompagner ?",
+    "options": [
+      "Le Sénat",
+      "Le musée du Louvre",
+      "France Travail",
+      "La bibliothèque municipale"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-086",
+    "number": 86,
+    "category": "living_in_france",
+    "question": "Un employeur vous propose un travail salarié non déclaré. Que faire ?",
+    "options": [
+      "Accepter pour éviter les cotisations",
+      "Cacher le travail à toutes les administrations",
+      "Refuser et demander un emploi déclaré",
+      "Utiliser le numéro de sécurité sociale d’un ami"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-087",
+    "number": 87,
+    "category": "living_in_france",
+    "question": "Un employeur vous propose un salaire horaire inférieur au SMIC alors que vous êtes salarié majeur de droit commun. Quelle réaction adopter ?",
+    "options": [
+      "Accepter car le SMIC est facultatif",
+      "Demander le respect du salaire minimum applicable",
+      "Payer la différence à l’employeur",
+      "Renoncer à tous vos droits"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-088",
+    "number": 88,
+    "category": "living_in_france",
+    "question": "Vous souhaitez créer une entreprise avec votre titre de séjour. Que vérifier avant de commencer ?",
+    "options": [
+      "Que votre voisin donne son accord",
+      "Que vous avez un diplôme français dans tous les cas",
+      "Que vous êtes propriétaire de votre logement",
+      "Que votre titre vous autorise à exercer cette activité"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-089",
+    "number": 89,
+    "category": "living_in_france",
+    "question": "Vous avez de la fièvre sans signe de gravité et souhaitez consulter. À qui vous adresser en premier ?",
+    "options": [
+      "Au bureau de vote",
+      "Au service des impôts",
+      "À votre médecin traitant ou à un médecin disponible",
+      "Au commissariat"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-090",
+    "number": 90,
+    "category": "living_in_france",
+    "question": "Une personne présente des signes d’urgence médicale grave. Quel numéro appeler pour joindre le SAMU ?",
+    "options": [
+      "36 46",
+      "15",
+      "39 49",
+      "17"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-091",
+    "number": 91,
+    "category": "living_in_france",
+    "question": "Vous allez chez le médecin et souhaitez faciliter le remboursement de vos soins. Quel document présenter si vous en disposez ?",
+    "options": [
+      "La carte de fidélité d’un magasin",
+      "La carte Vitale",
+      "La carte électorale",
+      "La carte de bibliothèque"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-092",
+    "number": 92,
+    "category": "living_in_france",
+    "question": "Vous voulez compléter la prise en charge de vos frais de santé. Quelle solution peut être utile ?",
+    "options": [
+      "Un abonnement téléphonique",
+      "Une assurance automobile uniquement",
+      "Une carte de transport",
+      "Une complémentaire santé"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-093",
+    "number": 93,
+    "category": "living_in_france",
+    "question": "Vous venez d’acheter une voiture et avez le permis. Quelle assurance devez-vous avoir avant de circuler ?",
+    "options": [
+      "Aucune assurance si le véhicule est neuf",
+      "Une assurance habitation uniquement",
+      "Une assurance automobile couvrant au minimum la responsabilité civile",
+      "Une assurance voyage uniquement"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-094",
+    "number": 94,
+    "category": "living_in_france",
+    "question": "Votre enfant ne parle pas encore français. Vous souhaitez l’inscrire à l’école publique. Que faire ?",
+    "options": [
+      "Effectuer les démarches d’inscription sans attendre qu’il parle français",
+      "L’inscrire uniquement à l’étranger",
+      "Renoncer à toute instruction",
+      "Attendre qu’il parle parfaitement français"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-095",
+    "number": 95,
+    "category": "living_in_france",
+    "question": "Un parent reçoit une information de l’école concernant les absences de son enfant. Quelle attitude adopter ?",
+    "options": [
+      "Contacter l’école et veiller à son assiduité",
+      "Interdire à l’enfant de retourner à l’école",
+      "Encourager les absences injustifiées",
+      "Ignorer tous les messages"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-096",
+    "number": 96,
+    "category": "living_in_france",
+    "question": "Vous déménagez et devez mettre à jour votre dossier auprès de la CAF. Quelle démarche effectuer ?",
+    "options": [
+      "Déclarer une adresse fictive",
+      "Déclarer votre changement d’adresse à la CAF",
+      "Utiliser indéfiniment votre ancienne adresse",
+      "Attendre que votre voisin fasse la démarche"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-097",
+    "number": 97,
+    "category": "living_in_france",
+    "question": "Vous souhaitez obtenir le remboursement de soins par l’assurance maladie. Quel organisme contacter pour le régime général ?",
+    "options": [
+      "Le conseil municipal",
+      "Le rectorat",
+      "France Travail",
+      "La CPAM"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-098",
+    "number": 98,
+    "category": "living_in_france",
+    "question": "Un ami est sans emploi et souhaite améliorer ses compétences. Quelle démarche peut l’aider ?",
+    "options": [
+      "Acheter un faux diplôme",
+      "Utiliser le diplôme de quelqu’un d’autre",
+      "Refuser toute formation disponible",
+      "Demander un accompagnement ou une formation auprès de France Travail"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-099",
+    "number": 99,
+    "category": "living_in_france",
+    "question": "Votre enfant est concerné par une vaccination obligatoire. Quelle attitude adopter ?",
+    "options": [
+      "Utiliser le carnet d’un autre enfant",
+      "Falsifier son carnet de santé",
+      "Consulter un professionnel de santé pour respecter les obligations vaccinales",
+      "Ignorer toutes les obligations"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  },
+  {
+    "id": "csp-situation-100",
+    "number": 100,
+    "category": "living_in_france",
+    "question": "Vous avez besoin d’un acte de naissance établi par une mairie française. Quel service contacter ?",
+    "options": [
+      "La police municipale pour toute demande",
+      "Le service des encombrants",
+      "Le service de restauration scolaire",
+      "Le service de l’état civil compétent"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Author-created practice question; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "questionType": "situation",
+    "source": "https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/"
+  }
+]

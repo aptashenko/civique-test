@@ -1,0 +1,708 @@
+[
+  {
+    "id": "csp-001",
+    "number": 1,
+    "category": "republican_values",
+    "question": "À quoi correspond la date du 14 juillet ?",
+    "options": [
+      "À la fin de la Première Guerre mondiale",
+      "À la prise de la Bastille",
+      "À la signature de la Constitution",
+      "À l’abolition de l’esclavage"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "La fête nationale commémore aussi la fête de la Fédération de 1790."
+  },
+  {
+    "id": "csp-002",
+    "number": 2,
+    "category": "republican_values",
+    "question": "Quel est l’un des symboles de la République française ?",
+    "options": [
+      "Le lion",
+      "La Marianne",
+      "Le dragon",
+      "L’hymne à la joie"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-003",
+    "number": 3,
+    "category": "republican_values",
+    "question": "Le principe d’égalité signifie que :",
+    "options": [
+      "Tous les citoyens ont les mêmes droits",
+      "Les hommes ont plus de droits que les femmes",
+      "Les riches ont plus de droits",
+      "Les étrangers n’ont aucun droit"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-004",
+    "number": 4,
+    "category": "republican_values",
+    "question": "\"Liberté, égalité, fraternité\", c’est :",
+    "options": [
+      "Le titre de l’hymne national",
+      "La devise de la République française",
+      "Le nom du drapeau",
+      "Le nom de la Constitution"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-005",
+    "number": 5,
+    "category": "republican_values",
+    "question": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent ?",
+    "options": [
+      "Oui, c’est une opinion",
+      "Oui, si c’est sur Internet",
+      "Non, c’est interdit par la loi",
+      "Oui, si la personne n’est pas française"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-006",
+    "number": 6,
+    "category": "republican_values",
+    "question": "Certains métiers peuvent-ils être réservés aux hommes ?",
+    "options": [
+      "Oui, tous",
+      "Oui, certains",
+      "Non, jamais",
+      "Oui, si l’employeur le décide"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "En principe non ; exceptions très limitées pour certaines activités (exigence professionnelle essentielle)."
+  },
+  {
+    "id": "csp-007",
+    "number": 7,
+    "category": "republican_values",
+    "question": "De quand date la Constitution de la Ve République ?",
+    "options": [
+      "1789",
+      "1945",
+      "1958",
+      "1992"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-008",
+    "number": 8,
+    "category": "republican_values",
+    "question": "Le régime de la France est :",
+    "options": [
+      "Une monarchie",
+      "Un état fédéral",
+      "Une République",
+      "Un empire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-009",
+    "number": 9,
+    "category": "republican_values",
+    "question": "Lequel de ces symboles représente officiellement la République française ?",
+    "options": [
+      "Le drapeau tricolore",
+      "La Tour Eiffel",
+      "Le drapeau européen",
+      "La ville de Paris"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-010",
+    "number": 10,
+    "category": "republican_values",
+    "question": "Où peut-on voir la devise de la République ?",
+    "options": [
+      "Sur les billets de banque",
+      "Sur les bâtiments publics",
+      "Sur les passeports étrangers",
+      "Sur les voitures de police uniquement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-011",
+    "number": 11,
+    "category": "republican_values",
+    "question": "Quels sont des symboles officiels de la République française ?",
+    "options": [
+      "Le drapeau tricolore et Marianne",
+      "Le lion",
+      "Le soleil",
+      "L’aigle"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-012",
+    "number": 12,
+    "category": "republican_values",
+    "question": "Qu’est-ce que l’égalité ?",
+    "options": [
+      "Le droit d’être plus riche",
+      "Le droit d’être différent",
+      "Le fait d’avoir les mêmes droits et devoirs",
+      "Le fait d’avoir les mêmes opinions"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-013",
+    "number": 13,
+    "category": "republican_values",
+    "question": "Que signifie la liberté ?",
+    "options": [
+      "Faire tout ce qu’on veut sans limite",
+      "Faire ce que la loi permet",
+      "Ne jamais respecter les règles",
+      "Ne pas payer d’impôts"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-014",
+    "number": 14,
+    "category": "republican_values",
+    "question": "Que signifie \"fraternité\" ?",
+    "options": [
+      "L’amitié entre pays",
+      "L’entraide et la solidarité entre citoyens",
+      "L’ obéissance à l’État",
+      "Le partage des richesses"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-015",
+    "number": 15,
+    "category": "republican_values",
+    "question": "Quel animal est un symbole de la France ?",
+    "options": [
+      "Le lion",
+      "Le cheval",
+      "Le bœuf",
+      "Le coq"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-016",
+    "number": 16,
+    "category": "republican_values",
+    "question": "Quel est l’un des rôles des associations ?",
+    "options": [
+      "Faire appliquer les lois",
+      "Aider les citoyens et défendre des causes",
+      "Remplacer le gouvernement",
+      "Organiser les élections"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-017",
+    "number": 17,
+    "category": "republican_values",
+    "question": "Quel est le nom de l'hymne national ?",
+    "options": [
+      "La Parisienne",
+      "La Marseillaise",
+      "La Française",
+      "La Liberté"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-018",
+    "number": 18,
+    "category": "republican_values",
+    "question": "Quel symbole de la République française est tricolore ?",
+    "options": [
+      "Marianne",
+      "Le drapeau",
+      "Le coq",
+      "La devise"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-019",
+    "number": 19,
+    "category": "republican_values",
+    "question": "Quelle est la date de la fête nationale française ?",
+    "options": [
+      "1er mai",
+      "11 novembre",
+      "14 juillet",
+      "25 décembre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-020",
+    "number": 20,
+    "category": "republican_values",
+    "question": "Quelle est la devise de la République française ?",
+    "options": [
+      "Paix, travail, patrie",
+      "Justice, ordre, nation",
+      "Union, force, honneur",
+      "Liberté, égalité, fraternité"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-021",
+    "number": 21,
+    "category": "republican_values",
+    "question": "Quelle est la langue officielle de la République française ?",
+    "options": [
+      "L’anglais",
+      "Le corse",
+      "Le breton",
+      "Le français"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-022",
+    "number": 22,
+    "category": "republican_values",
+    "question": "Quelle est la place de la langue française dans la République ?",
+    "options": [
+      "Elle est facultative",
+      "Elle est la langue officielle",
+      "Elle est réservée aux écoles",
+      "Elle est utilisée seulement dans les mairies"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-023",
+    "number": 23,
+    "category": "republican_values",
+    "question": "Quelle liberté permet à chacun d’exprimer ses idées ?",
+    "options": [
+      "La liberté de circulation",
+      "La liberté d’expression",
+      "La liberté de commerce",
+      "La liberté de vote"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-024",
+    "number": 24,
+    "category": "republican_values",
+    "question": "La liberté d'expression :",
+    "options": [
+      "Permet d’insulter les autres",
+      "Permet de tout dire sans limite",
+      "S’exerce dans le respect de la loi",
+      "Est interdite sur Internet"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-025",
+    "number": 25,
+    "category": "republican_values",
+    "question": "Quelles sont les couleurs du drapeau français ?",
+    "options": [
+      "Rouge, jaune, vert",
+      "Bleu, blanc, rouge",
+      "Noir, blanc, rouge",
+      "Bleu, jaune, vert"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-026",
+    "number": 26,
+    "category": "republican_values",
+    "question": "Qu'est-ce que la Marseillaise ?",
+    "options": [
+      "Une danse",
+      "Un poème",
+      "L’hymne national",
+      "Un monument"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-027",
+    "number": 27,
+    "category": "republican_values",
+    "question": "Que se passe-t-il sur les Champs-Élysées le 14 juillet ?",
+    "options": [
+      "Un feu d’artifice",
+      "Un défilé militaire",
+      "Une course cycliste",
+      "Une fête foraine"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-028",
+    "number": 28,
+    "category": "republican_values",
+    "question": "Qui est Marianne ?",
+    "options": [
+      "Une reine de France",
+      "Une héroïne de guerre",
+      "La représentation symbolique de la République",
+      "Une chanteuse célèbre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-029",
+    "number": 29,
+    "category": "republican_values",
+    "question": "Une personne peut-elle changer librement de religion ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, mais seulement une fois",
+      "Oui, avec l’accord de l’État"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-030",
+    "number": 30,
+    "category": "republican_values",
+    "question": "Complétez : \"La France est une République indivisible, ..., démocratique et sociale.\"",
+    "options": [
+      "Laïque",
+      "Royale",
+      "Religieuse",
+      "Fédérale"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-031",
+    "number": 31,
+    "category": "republican_values",
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+    "options": [
+      "1789",
+      "1881",
+      "1905",
+      "1958"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-032",
+    "number": 32,
+    "category": "republican_values",
+    "question": "Que permet le principe de laïcité ?",
+    "options": [
+      "D’imposer une religion",
+      "De financer les cultes",
+      "D’interdire toutes les religions",
+      "De garantir la liberté de croire ou non"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-033",
+    "number": 33,
+    "category": "republican_values",
+    "question": "Quel droit est garanti par la laïcité ?",
+    "options": [
+      "Le droit de vote",
+      "Le droit de propriété",
+      "La liberté de conscience",
+      "Le droit au logement"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-034",
+    "number": 34,
+    "category": "republican_values",
+    "question": "Pourquoi la laïcité doit-elle être respectée à l'école ?",
+    "options": [
+      "Pour empêcher les élèves de parler",
+      "Pour garantir un espace neutre et égal pour tous",
+      "Pour imposer une religion",
+      "Pour favoriser une seule culture"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-035",
+    "number": 35,
+    "category": "republican_values",
+    "question": "Qu'est-ce que la laïcité ?",
+    "options": [
+      "L’obligation de pratiquer une religion",
+      "La séparation des religions et de l’État",
+      "L’interdiction de croire",
+      "La religion officielle"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-036",
+    "number": 36,
+    "category": "republican_values",
+    "question": "Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, si les parents sont d’accord",
+      "Oui, le mercredi uniquement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "L’obligation porte juridiquement sur l’instruction et l’assiduité des élèves inscrits."
+  },
+  {
+    "id": "csp-037",
+    "number": 37,
+    "category": "republican_values",
+    "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, mais seulement à l’âge adulte",
+      "Non, selon la loi"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  }
+]

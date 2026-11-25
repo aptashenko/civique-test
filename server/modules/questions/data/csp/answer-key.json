@@ -1,0 +1,766 @@
+{
+  "csp-001": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-002": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-003": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-004": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-005": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-006": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-007": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-008": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-009": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-010": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-011": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-012": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-013": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-014": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-015": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-016": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-017": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-018": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-019": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-020": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-021": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-022": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-023": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-024": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-025": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-026": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-027": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-028": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-029": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-030": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-031": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-032": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-033": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-034": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-035": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-036": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-037": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-038": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-039": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-040": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-041": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-042": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-043": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-044": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-045": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-046": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-047": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-048": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-049": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-050": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-051": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-052": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-053": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-054": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-055": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-056": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-057": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-058": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-059": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-060": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-061": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-062": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-063": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-064": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-065": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-066": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-067": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-068": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-069": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-070": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-071": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-072": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-073": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-074": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-075": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-076": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-077": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-078": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-079": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-080": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-081": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-082": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-083": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-084": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-085": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-086": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-087": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-088": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-089": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-090": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-091": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-092": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-093": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-094": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-095": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-096": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-097": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-098": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-099": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-100": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-101": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-102": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-103": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-104": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-105": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-106": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-107": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-108": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-109": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-110": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-111": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-112": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-113": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-114": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-115": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-116": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-117": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-118": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-119": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-120": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-121": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-122": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-123": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-124": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-125": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-126": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-127": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-128": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-129": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-130": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-131": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-132": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-133": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-134": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-135": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-136": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-137": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-138": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-139": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-140": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-141": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-142": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-143": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-144": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-145": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-146": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-147": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-148": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-149": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-150": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-151": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-152": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-153": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-154": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-155": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-156": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-157": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-158": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-159": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-160": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-161": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-162": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-163": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-164": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-165": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-166": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-167": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-168": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-169": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-170": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-171": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-172": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-173": {
+    "correctAnswer": 0,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-174": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-175": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-176": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-177": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-178": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-179": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-180": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-181": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-182": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-183": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-184": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-185": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-186": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-187": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-188": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-189": {
+    "correctAnswer": 1,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-190": {
+    "correctAnswer": 3,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  },
+  "csp-191": {
+    "correctAnswer": 2,
+    "source": "Assistant: knowledge-based selection; not official answer key"
+  }
+}

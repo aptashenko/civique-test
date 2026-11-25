@@ -1,0 +1,878 @@
+[
+  {
+    "id": "csp-038",
+    "number": 38,
+    "category": "political_system",
+    "question": "Qui nomme le Premier ministre ?",
+    "options": [
+      "Le Parlement",
+      "Le Président de la République",
+      "Le Conseil constitutionnel",
+      "Les citoyens"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-039",
+    "number": 39,
+    "category": "political_system",
+    "question": "Le Parlement est composé :",
+    "options": [
+      "Du Président et du gouvernement",
+      "De l’Assemblée nationale et du Sénat",
+      "Des maires",
+      "Des préfets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-040",
+    "number": 40,
+    "category": "political_system",
+    "question": "Qu'est-ce que le pouvoir exécutif ?",
+    "options": [
+      "Le pouvoir de faire les lois",
+      "Le pouvoir de juger",
+      "Le pouvoir de faire appliquer les lois",
+      "Le pouvoir de voter"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-041",
+    "number": 41,
+    "category": "political_system",
+    "question": "Les dirigeants sont élus par les citoyens dans :",
+    "options": [
+      "Les élections professionnelles",
+      "Les élections politiques",
+      "Les concours administratifs",
+      "Les tirages au sort"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-042",
+    "number": 42,
+    "category": "political_system",
+    "question": "A-t-on le droit de ne pas respecter une loi ?",
+    "options": [
+      "Oui, si on n’est pas d’accord",
+      "Oui, si personne ne regarde",
+      "Non, jamais",
+      "Oui, si c’est une petite loi"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-043",
+    "number": 43,
+    "category": "political_system",
+    "question": "Qui doit respecter la loi ?",
+    "options": [
+      "Les citoyens uniquement",
+      "Les étrangers uniquement",
+      "Les responsables politiques uniquement",
+      "Tout le monde"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-044",
+    "number": 44,
+    "category": "political_system",
+    "question": "Quel est le rôle de l'autorité judiciaire ?",
+    "options": [
+      "Faire les lois",
+      "Appliquer les lois",
+      "Juger les infractions et protéger les libertés",
+      "Organiser les élections"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-045",
+    "number": 45,
+    "category": "political_system",
+    "question": "Quel pouvoir détient un juge ?",
+    "options": [
+      "Le pouvoir exécutif",
+      "Le pouvoir législatif",
+      "Le pouvoir judiciaire",
+      "Le pouvoir militaire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-046",
+    "number": 46,
+    "category": "political_system",
+    "question": "L'autorité judiciaire est exercée par :",
+    "options": [
+      "Les députés",
+      "Les juges et les magistrats",
+      "Les policiers",
+      "Les ministres"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-047",
+    "number": 47,
+    "category": "political_system",
+    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+    "options": [
+      "Rien",
+      "Il est protégé",
+      "Il peut être jugé comme tout citoyen",
+      "Il perd automatiquement son poste"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-048",
+    "number": 48,
+    "category": "political_system",
+    "question": "Qui est élu lors des élections législatives ?",
+    "options": [
+      "Les maires",
+      "Les députés",
+      "Les sénateurs",
+      "Le Président"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-049",
+    "number": 49,
+    "category": "political_system",
+    "question": "Combien de députés composent l’Assemblée nationale ?",
+    "options": [
+      "150",
+      "350",
+      "577",
+      "800"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-050",
+    "number": 50,
+    "category": "political_system",
+    "question": "Quand sont élus les sénateurs ?",
+    "options": [
+      "Tous les 2 ans",
+      "Tous les 3 ans pour la moitié d’entre eux",
+      "Tous les 6 ans en une seule fois",
+      "Tous les 10 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-051",
+    "number": 51,
+    "category": "political_system",
+    "question": "Qui est élu lors des élections municipales ?",
+    "options": [
+      "Le Président",
+      "Les députés",
+      "Les conseillers municipaux",
+      "Les préfets"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-052",
+    "number": 52,
+    "category": "political_system",
+    "question": "Qui est élu lors des élections présidentielles ?",
+    "options": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "Les députés",
+      "Les conseillers régionaux"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-053",
+    "number": 53,
+    "category": "political_system",
+    "question": "À partir de quel âge a-t-on le droit de voter ?",
+    "options": [
+      "16 ans",
+      "18 ans",
+      "21 ans",
+      "25 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-054",
+    "number": 54,
+    "category": "political_system",
+    "question": "Pour combien de temps est élu le président de la République française ?",
+    "options": [
+      "4 ans",
+      "5 ans",
+      "6 ans",
+      "7 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-055",
+    "number": 55,
+    "category": "political_system",
+    "question": "Pour combien de temps sont élus les députés ?",
+    "options": [
+      "3 ans",
+      "4 ans",
+      "5 ans",
+      "6 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-056",
+    "number": 56,
+    "category": "political_system",
+    "question": "Pour combien de temps sont élus les sénateurs ?",
+    "options": [
+      "3 ans",
+      "5 ans",
+      "6 ans",
+      "10 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-057",
+    "number": 57,
+    "category": "political_system",
+    "question": "Qui possède le pouvoir exécutif ?",
+    "options": [
+      "Le Président et le gouvernement",
+      "Les députés",
+      "Les juges",
+      "Les maires"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-058",
+    "number": 58,
+    "category": "political_system",
+    "question": "Quelle condition est nécessaire pour voter aux élections ?",
+    "options": [
+      "Avoir un travail",
+      "Être majeur et inscrit sur les listes électorales",
+      "Être propriétaire",
+      "Être marié"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-059",
+    "number": 59,
+    "category": "political_system",
+    "question": "Qui peut voter aux élections en France ?",
+    "options": [
+      "Tous les habitants",
+      "Les citoyens français majeurs",
+      "Les touristes",
+      "Les mineurs"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Les citoyens de l’UE peuvent aussi voter aux élections municipales et européennes en France, sous conditions."
+  },
+  {
+    "id": "csp-060",
+    "number": 60,
+    "category": "political_system",
+    "question": "Que signifie « suffrage universel » ?",
+    "options": [
+      "Tout le monde peut être candidat",
+      "Tous les citoyens peuvent voter",
+      "Seuls les hommes votent",
+      "Seuls les riches votent"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-061",
+    "number": 61,
+    "category": "political_system",
+    "question": "Concernant les partis politiques, quelle proposition est correcte ?",
+    "options": [
+      "Ils sont interdits",
+      "Ils doivent respecter la démocratie",
+      "Ils dirigent la justice",
+      "Ils nomment les préfets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-062",
+    "number": 62,
+    "category": "political_system",
+    "question": "Quel est le rôle des députés ?",
+    "options": [
+      "Juger les citoyens",
+      "Appliquer les lois",
+      "Voter les lois et contrôler le gouvernement",
+      "Organiser les élections"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-063",
+    "number": 63,
+    "category": "political_system",
+    "question": "Quels sont les trois pouvoirs dans la séparation des pouvoirs ?",
+    "options": [
+      "Politique, militaire, religieux",
+      "Exécutif, législatif, judiciaire",
+      "Local, national, européen",
+      "Présidentiel, municipal, régional"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-064",
+    "number": 64,
+    "category": "political_system",
+    "question": "Qui possède le pouvoir législatif ?",
+    "options": [
+      "Le Président",
+      "Le Parlement",
+      "Les juges",
+      "Les préfets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-065",
+    "number": 65,
+    "category": "political_system",
+    "question": "Qui sanctionne l'auteur d'un vol ?",
+    "options": [
+      "Le maire",
+      "Le juge",
+      "Le Président",
+      "Le préfet"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-066",
+    "number": 66,
+    "category": "political_system",
+    "question": "Qui élit les députés ?",
+    "options": [
+      "Les maires",
+      "Les citoyens",
+      "Les sénateurs",
+      "Le Président"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-067",
+    "number": 67,
+    "category": "political_system",
+    "question": "Qui vote les lois ?",
+    "options": [
+      "Le gouvernement",
+      "Les Juges",
+      "Les citoyens",
+      "Le parlement"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-068",
+    "number": 68,
+    "category": "political_system",
+    "question": "Qui réside au palais de l'Élysée ?",
+    "options": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "Le ministre de l’Intérieur",
+      "Le président du Sénat"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-069",
+    "number": 69,
+    "category": "political_system",
+    "question": "Combien y a-t-il de départements en France ?",
+    "options": [
+      "50",
+      "75",
+      "101",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Réponse usuelle du questionnaire : 101 départements ; ne pas confondre avec les collectivités territoriales."
+  },
+  {
+    "id": "csp-070",
+    "number": 70,
+    "category": "political_system",
+    "question": "Qui représente l'État dans un département ?",
+    "options": [
+      "Le maire",
+      "Le préfet",
+      "Le député",
+      "Le président du conseil régional"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-071",
+    "number": 71,
+    "category": "political_system",
+    "question": "Qui dirige la commune ?",
+    "options": [
+      "Le préfet",
+      "Le maire",
+      "Le député",
+      "Le ministre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-072",
+    "number": 72,
+    "category": "political_system",
+    "question": "Est-ce que le président de la République a tous les pouvoirs ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, en temps de guerre",
+      "Oui, s’il le décide"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-073",
+    "number": 73,
+    "category": "political_system",
+    "question": "Qui est le préfet ?",
+    "options": [
+      "Un élu local",
+      "Un représentant de l’État nommé par le gouvernement",
+      "Un juge",
+      "Un député"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-074",
+    "number": 74,
+    "category": "political_system",
+    "question": "Quel est le rôle du Parlement ?",
+    "options": [
+      "Appliquer les lois",
+      "Voter les lois et contrôler le gouvernement",
+      "Organiser les élections",
+      "Rédiger la Constitution"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-075",
+    "number": 75,
+    "category": "political_system",
+    "question": "Quel est le régime politique de la France aujourd'hui ?",
+    "options": [
+      "Monarchie absolue",
+      "Monarchie constitutionnelle",
+      "République démocratique",
+      "Empire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-076",
+    "number": 76,
+    "category": "political_system",
+    "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+    "options": [
+      "20",
+      "24",
+      "27",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-077",
+    "number": 77,
+    "category": "political_system",
+    "question": "Quel État n'est pas membre de l'Union européenne ?",
+    "options": [
+      "Espagne",
+      "Italie",
+      "Allemagne",
+      "Norvège"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-078",
+    "number": 78,
+    "category": "political_system",
+    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+    "options": [
+      "Être majeur et citoyen français ou européen",
+      "Être propriétaire",
+      "Avoir un diplôme",
+      "Être fonctionnaire"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-079",
+    "number": 79,
+    "category": "political_system",
+    "question": "À quelle fréquence les élections européennes sont-elles organisées ?",
+    "options": [
+      "Tous les 3 ans",
+      "Tous les 4 ans",
+      "Tous les 5 ans",
+      "Tous les 10 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-080",
+    "number": 80,
+    "category": "political_system",
+    "question": "Quel pays est un pays fondateur de l'Union européenne ?",
+    "options": [
+      "Portugal",
+      "France",
+      "Grèce",
+      "Suède"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-081",
+    "number": 81,
+    "category": "political_system",
+    "question": "Quelle est la monnaie utilisée en France ?",
+    "options": [
+      "Le dollar",
+      "Le franc",
+      "L’euro",
+      "La livre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-082",
+    "number": 82,
+    "category": "political_system",
+    "question": "Qui élit les députés européens ?",
+    "options": [
+      "Les gouvernements",
+      "Les Juges",
+      "Les maires",
+      "Les citoyens européens"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-083",
+    "number": 83,
+    "category": "political_system",
+    "question": "Quand célèbre-t-on la journée de l'Europe ?",
+    "options": [
+      "1er janvier",
+      "9 mai",
+      "14 juillet",
+      "25 décembre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  }
+]

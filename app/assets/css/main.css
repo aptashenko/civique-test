@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Nunito Variable", system-ui, sans-serif;
+}
+
+body { margin: 0; }
+a { text-underline-offset: .2em; }
+button, summary { cursor: pointer; }
+button:disabled { cursor: default; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}

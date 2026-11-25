@@ -1,0 +1,3646 @@
+[
+  {
+    "id": "csp-001",
+    "number": 1,
+    "category": "republican_values",
+    "question": "À quoi correspond la date du 14 juillet ?",
+    "options": [
+      "À la fin de la Première Guerre mondiale",
+      "À la prise de la Bastille",
+      "À la signature de la Constitution",
+      "À l’abolition de l’esclavage"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "La fête nationale commémore aussi la fête de la Fédération de 1790."
+  },
+  {
+    "id": "csp-002",
+    "number": 2,
+    "category": "republican_values",
+    "question": "Quel est l’un des symboles de la République française ?",
+    "options": [
+      "Le lion",
+      "La Marianne",
+      "Le dragon",
+      "L’hymne à la joie"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-003",
+    "number": 3,
+    "category": "republican_values",
+    "question": "Le principe d’égalité signifie que :",
+    "options": [
+      "Tous les citoyens ont les mêmes droits",
+      "Les hommes ont plus de droits que les femmes",
+      "Les riches ont plus de droits",
+      "Les étrangers n’ont aucun droit"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-004",
+    "number": 4,
+    "category": "republican_values",
+    "question": "\"Liberté, égalité, fraternité\", c’est :",
+    "options": [
+      "Le titre de l’hymne national",
+      "La devise de la République française",
+      "Le nom du drapeau",
+      "Le nom de la Constitution"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-005",
+    "number": 5,
+    "category": "republican_values",
+    "question": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent ?",
+    "options": [
+      "Oui, c’est une opinion",
+      "Oui, si c’est sur Internet",
+      "Non, c’est interdit par la loi",
+      "Oui, si la personne n’est pas française"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-006",
+    "number": 6,
+    "category": "republican_values",
+    "question": "Certains métiers peuvent-ils être réservés aux hommes ?",
+    "options": [
+      "Oui, tous",
+      "Oui, certains",
+      "Non, jamais",
+      "Oui, si l’employeur le décide"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "En principe non ; exceptions très limitées pour certaines activités (exigence professionnelle essentielle)."
+  },
+  {
+    "id": "csp-007",
+    "number": 7,
+    "category": "republican_values",
+    "question": "De quand date la Constitution de la Ve République ?",
+    "options": [
+      "1789",
+      "1945",
+      "1958",
+      "1992"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-008",
+    "number": 8,
+    "category": "republican_values",
+    "question": "Le régime de la France est :",
+    "options": [
+      "Une monarchie",
+      "Un état fédéral",
+      "Une République",
+      "Un empire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-009",
+    "number": 9,
+    "category": "republican_values",
+    "question": "Lequel de ces symboles représente officiellement la République française ?",
+    "options": [
+      "Le drapeau tricolore",
+      "La Tour Eiffel",
+      "Le drapeau européen",
+      "La ville de Paris"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-010",
+    "number": 10,
+    "category": "republican_values",
+    "question": "Où peut-on voir la devise de la République ?",
+    "options": [
+      "Sur les billets de banque",
+      "Sur les bâtiments publics",
+      "Sur les passeports étrangers",
+      "Sur les voitures de police uniquement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-011",
+    "number": 11,
+    "category": "republican_values",
+    "question": "Quels sont des symboles officiels de la République française ?",
+    "options": [
+      "Le drapeau tricolore et Marianne",
+      "Le lion",
+      "Le soleil",
+      "L’aigle"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-012",
+    "number": 12,
+    "category": "republican_values",
+    "question": "Qu’est-ce que l’égalité ?",
+    "options": [
+      "Le droit d’être plus riche",
+      "Le droit d’être différent",
+      "Le fait d’avoir les mêmes droits et devoirs",
+      "Le fait d’avoir les mêmes opinions"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-013",
+    "number": 13,
+    "category": "republican_values",
+    "question": "Que signifie la liberté ?",
+    "options": [
+      "Faire tout ce qu’on veut sans limite",
+      "Faire ce que la loi permet",
+      "Ne jamais respecter les règles",
+      "Ne pas payer d’impôts"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-014",
+    "number": 14,
+    "category": "republican_values",
+    "question": "Que signifie \"fraternité\" ?",
+    "options": [
+      "L’amitié entre pays",
+      "L’entraide et la solidarité entre citoyens",
+      "L’ obéissance à l’État",
+      "Le partage des richesses"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-015",
+    "number": 15,
+    "category": "republican_values",
+    "question": "Quel animal est un symbole de la France ?",
+    "options": [
+      "Le lion",
+      "Le cheval",
+      "Le bœuf",
+      "Le coq"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-016",
+    "number": 16,
+    "category": "republican_values",
+    "question": "Quel est l’un des rôles des associations ?",
+    "options": [
+      "Faire appliquer les lois",
+      "Aider les citoyens et défendre des causes",
+      "Remplacer le gouvernement",
+      "Organiser les élections"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-017",
+    "number": 17,
+    "category": "republican_values",
+    "question": "Quel est le nom de l'hymne national ?",
+    "options": [
+      "La Parisienne",
+      "La Marseillaise",
+      "La Française",
+      "La Liberté"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-018",
+    "number": 18,
+    "category": "republican_values",
+    "question": "Quel symbole de la République française est tricolore ?",
+    "options": [
+      "Marianne",
+      "Le drapeau",
+      "Le coq",
+      "La devise"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-019",
+    "number": 19,
+    "category": "republican_values",
+    "question": "Quelle est la date de la fête nationale française ?",
+    "options": [
+      "1er mai",
+      "11 novembre",
+      "14 juillet",
+      "25 décembre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-020",
+    "number": 20,
+    "category": "republican_values",
+    "question": "Quelle est la devise de la République française ?",
+    "options": [
+      "Paix, travail, patrie",
+      "Justice, ordre, nation",
+      "Union, force, honneur",
+      "Liberté, égalité, fraternité"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-021",
+    "number": 21,
+    "category": "republican_values",
+    "question": "Quelle est la langue officielle de la République française ?",
+    "options": [
+      "L’anglais",
+      "Le corse",
+      "Le breton",
+      "Le français"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-022",
+    "number": 22,
+    "category": "republican_values",
+    "question": "Quelle est la place de la langue française dans la République ?",
+    "options": [
+      "Elle est facultative",
+      "Elle est la langue officielle",
+      "Elle est réservée aux écoles",
+      "Elle est utilisée seulement dans les mairies"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-023",
+    "number": 23,
+    "category": "republican_values",
+    "question": "Quelle liberté permet à chacun d’exprimer ses idées ?",
+    "options": [
+      "La liberté de circulation",
+      "La liberté d’expression",
+      "La liberté de commerce",
+      "La liberté de vote"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-024",
+    "number": 24,
+    "category": "republican_values",
+    "question": "La liberté d'expression :",
+    "options": [
+      "Permet d’insulter les autres",
+      "Permet de tout dire sans limite",
+      "S’exerce dans le respect de la loi",
+      "Est interdite sur Internet"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-025",
+    "number": 25,
+    "category": "republican_values",
+    "question": "Quelles sont les couleurs du drapeau français ?",
+    "options": [
+      "Rouge, jaune, vert",
+      "Bleu, blanc, rouge",
+      "Noir, blanc, rouge",
+      "Bleu, jaune, vert"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-026",
+    "number": 26,
+    "category": "republican_values",
+    "question": "Qu'est-ce que la Marseillaise ?",
+    "options": [
+      "Une danse",
+      "Un poème",
+      "L’hymne national",
+      "Un monument"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-027",
+    "number": 27,
+    "category": "republican_values",
+    "question": "Que se passe-t-il sur les Champs-Élysées le 14 juillet ?",
+    "options": [
+      "Un feu d’artifice",
+      "Un défilé militaire",
+      "Une course cycliste",
+      "Une fête foraine"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-028",
+    "number": 28,
+    "category": "republican_values",
+    "question": "Qui est Marianne ?",
+    "options": [
+      "Une reine de France",
+      "Une héroïne de guerre",
+      "La représentation symbolique de la République",
+      "Une chanteuse célèbre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-029",
+    "number": 29,
+    "category": "republican_values",
+    "question": "Une personne peut-elle changer librement de religion ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, mais seulement une fois",
+      "Oui, avec l’accord de l’État"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-030",
+    "number": 30,
+    "category": "republican_values",
+    "question": "Complétez : \"La France est une République indivisible, ..., démocratique et sociale.\"",
+    "options": [
+      "Laïque",
+      "Royale",
+      "Religieuse",
+      "Fédérale"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-031",
+    "number": 31,
+    "category": "republican_values",
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?",
+    "options": [
+      "1789",
+      "1881",
+      "1905",
+      "1958"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-032",
+    "number": 32,
+    "category": "republican_values",
+    "question": "Que permet le principe de laïcité ?",
+    "options": [
+      "D’imposer une religion",
+      "De financer les cultes",
+      "D’interdire toutes les religions",
+      "De garantir la liberté de croire ou non"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-033",
+    "number": 33,
+    "category": "republican_values",
+    "question": "Quel droit est garanti par la laïcité ?",
+    "options": [
+      "Le droit de vote",
+      "Le droit de propriété",
+      "La liberté de conscience",
+      "Le droit au logement"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-034",
+    "number": 34,
+    "category": "republican_values",
+    "question": "Pourquoi la laïcité doit-elle être respectée à l'école ?",
+    "options": [
+      "Pour empêcher les élèves de parler",
+      "Pour garantir un espace neutre et égal pour tous",
+      "Pour imposer une religion",
+      "Pour favoriser une seule culture"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-035",
+    "number": 35,
+    "category": "republican_values",
+    "question": "Qu'est-ce que la laïcité ?",
+    "options": [
+      "L’obligation de pratiquer une religion",
+      "La séparation des religions et de l’État",
+      "L’interdiction de croire",
+      "La religion officielle"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-036",
+    "number": 36,
+    "category": "republican_values",
+    "question": "Un enfant peut-il refuser d’aller à l’école pour une raison religieuse ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, si les parents sont d’accord",
+      "Oui, le mercredi uniquement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "L’obligation porte juridiquement sur l’instruction et l’assiduité des élèves inscrits."
+  },
+  {
+    "id": "csp-037",
+    "number": 37,
+    "category": "republican_values",
+    "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, mais seulement à l’âge adulte",
+      "Non, selon la loi"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-038",
+    "number": 38,
+    "category": "political_system",
+    "question": "Qui nomme le Premier ministre ?",
+    "options": [
+      "Le Parlement",
+      "Le Président de la République",
+      "Le Conseil constitutionnel",
+      "Les citoyens"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-039",
+    "number": 39,
+    "category": "political_system",
+    "question": "Le Parlement est composé :",
+    "options": [
+      "Du Président et du gouvernement",
+      "De l’Assemblée nationale et du Sénat",
+      "Des maires",
+      "Des préfets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-040",
+    "number": 40,
+    "category": "political_system",
+    "question": "Qu'est-ce que le pouvoir exécutif ?",
+    "options": [
+      "Le pouvoir de faire les lois",
+      "Le pouvoir de juger",
+      "Le pouvoir de faire appliquer les lois",
+      "Le pouvoir de voter"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-041",
+    "number": 41,
+    "category": "political_system",
+    "question": "Les dirigeants sont élus par les citoyens dans :",
+    "options": [
+      "Les élections professionnelles",
+      "Les élections politiques",
+      "Les concours administratifs",
+      "Les tirages au sort"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-042",
+    "number": 42,
+    "category": "political_system",
+    "question": "A-t-on le droit de ne pas respecter une loi ?",
+    "options": [
+      "Oui, si on n’est pas d’accord",
+      "Oui, si personne ne regarde",
+      "Non, jamais",
+      "Oui, si c’est une petite loi"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-043",
+    "number": 43,
+    "category": "political_system",
+    "question": "Qui doit respecter la loi ?",
+    "options": [
+      "Les citoyens uniquement",
+      "Les étrangers uniquement",
+      "Les responsables politiques uniquement",
+      "Tout le monde"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-044",
+    "number": 44,
+    "category": "political_system",
+    "question": "Quel est le rôle de l'autorité judiciaire ?",
+    "options": [
+      "Faire les lois",
+      "Appliquer les lois",
+      "Juger les infractions et protéger les libertés",
+      "Organiser les élections"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-045",
+    "number": 45,
+    "category": "political_system",
+    "question": "Quel pouvoir détient un juge ?",
+    "options": [
+      "Le pouvoir exécutif",
+      "Le pouvoir législatif",
+      "Le pouvoir judiciaire",
+      "Le pouvoir militaire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-046",
+    "number": 46,
+    "category": "political_system",
+    "question": "L'autorité judiciaire est exercée par :",
+    "options": [
+      "Les députés",
+      "Les juges et les magistrats",
+      "Les policiers",
+      "Les ministres"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-047",
+    "number": 47,
+    "category": "political_system",
+    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+    "options": [
+      "Rien",
+      "Il est protégé",
+      "Il peut être jugé comme tout citoyen",
+      "Il perd automatiquement son poste"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-048",
+    "number": 48,
+    "category": "political_system",
+    "question": "Qui est élu lors des élections législatives ?",
+    "options": [
+      "Les maires",
+      "Les députés",
+      "Les sénateurs",
+      "Le Président"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-049",
+    "number": 49,
+    "category": "political_system",
+    "question": "Combien de députés composent l’Assemblée nationale ?",
+    "options": [
+      "150",
+      "350",
+      "577",
+      "800"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-050",
+    "number": 50,
+    "category": "political_system",
+    "question": "Quand sont élus les sénateurs ?",
+    "options": [
+      "Tous les 2 ans",
+      "Tous les 3 ans pour la moitié d’entre eux",
+      "Tous les 6 ans en une seule fois",
+      "Tous les 10 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-051",
+    "number": 51,
+    "category": "political_system",
+    "question": "Qui est élu lors des élections municipales ?",
+    "options": [
+      "Le Président",
+      "Les députés",
+      "Les conseillers municipaux",
+      "Les préfets"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-052",
+    "number": 52,
+    "category": "political_system",
+    "question": "Qui est élu lors des élections présidentielles ?",
+    "options": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "Les députés",
+      "Les conseillers régionaux"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-053",
+    "number": 53,
+    "category": "political_system",
+    "question": "À partir de quel âge a-t-on le droit de voter ?",
+    "options": [
+      "16 ans",
+      "18 ans",
+      "21 ans",
+      "25 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-054",
+    "number": 54,
+    "category": "political_system",
+    "question": "Pour combien de temps est élu le président de la République française ?",
+    "options": [
+      "4 ans",
+      "5 ans",
+      "6 ans",
+      "7 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-055",
+    "number": 55,
+    "category": "political_system",
+    "question": "Pour combien de temps sont élus les députés ?",
+    "options": [
+      "3 ans",
+      "4 ans",
+      "5 ans",
+      "6 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-056",
+    "number": 56,
+    "category": "political_system",
+    "question": "Pour combien de temps sont élus les sénateurs ?",
+    "options": [
+      "3 ans",
+      "5 ans",
+      "6 ans",
+      "10 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-057",
+    "number": 57,
+    "category": "political_system",
+    "question": "Qui possède le pouvoir exécutif ?",
+    "options": [
+      "Le Président et le gouvernement",
+      "Les députés",
+      "Les juges",
+      "Les maires"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-058",
+    "number": 58,
+    "category": "political_system",
+    "question": "Quelle condition est nécessaire pour voter aux élections ?",
+    "options": [
+      "Avoir un travail",
+      "Être majeur et inscrit sur les listes électorales",
+      "Être propriétaire",
+      "Être marié"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-059",
+    "number": 59,
+    "category": "political_system",
+    "question": "Qui peut voter aux élections en France ?",
+    "options": [
+      "Tous les habitants",
+      "Les citoyens français majeurs",
+      "Les touristes",
+      "Les mineurs"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Les citoyens de l’UE peuvent aussi voter aux élections municipales et européennes en France, sous conditions."
+  },
+  {
+    "id": "csp-060",
+    "number": 60,
+    "category": "political_system",
+    "question": "Que signifie « suffrage universel » ?",
+    "options": [
+      "Tout le monde peut être candidat",
+      "Tous les citoyens peuvent voter",
+      "Seuls les hommes votent",
+      "Seuls les riches votent"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-061",
+    "number": 61,
+    "category": "political_system",
+    "question": "Concernant les partis politiques, quelle proposition est correcte ?",
+    "options": [
+      "Ils sont interdits",
+      "Ils doivent respecter la démocratie",
+      "Ils dirigent la justice",
+      "Ils nomment les préfets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-062",
+    "number": 62,
+    "category": "political_system",
+    "question": "Quel est le rôle des députés ?",
+    "options": [
+      "Juger les citoyens",
+      "Appliquer les lois",
+      "Voter les lois et contrôler le gouvernement",
+      "Organiser les élections"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-063",
+    "number": 63,
+    "category": "political_system",
+    "question": "Quels sont les trois pouvoirs dans la séparation des pouvoirs ?",
+    "options": [
+      "Politique, militaire, religieux",
+      "Exécutif, législatif, judiciaire",
+      "Local, national, européen",
+      "Présidentiel, municipal, régional"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-064",
+    "number": 64,
+    "category": "political_system",
+    "question": "Qui possède le pouvoir législatif ?",
+    "options": [
+      "Le Président",
+      "Le Parlement",
+      "Les juges",
+      "Les préfets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-065",
+    "number": 65,
+    "category": "political_system",
+    "question": "Qui sanctionne l'auteur d'un vol ?",
+    "options": [
+      "Le maire",
+      "Le juge",
+      "Le Président",
+      "Le préfet"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-066",
+    "number": 66,
+    "category": "political_system",
+    "question": "Qui élit les députés ?",
+    "options": [
+      "Les maires",
+      "Les citoyens",
+      "Les sénateurs",
+      "Le Président"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-067",
+    "number": 67,
+    "category": "political_system",
+    "question": "Qui vote les lois ?",
+    "options": [
+      "Le gouvernement",
+      "Les Juges",
+      "Les citoyens",
+      "Le parlement"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-068",
+    "number": 68,
+    "category": "political_system",
+    "question": "Qui réside au palais de l'Élysée ?",
+    "options": [
+      "Le Premier ministre",
+      "Le Président de la République",
+      "Le ministre de l’Intérieur",
+      "Le président du Sénat"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-069",
+    "number": 69,
+    "category": "political_system",
+    "question": "Combien y a-t-il de départements en France ?",
+    "options": [
+      "50",
+      "75",
+      "101",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Réponse usuelle du questionnaire : 101 départements ; ne pas confondre avec les collectivités territoriales."
+  },
+  {
+    "id": "csp-070",
+    "number": 70,
+    "category": "political_system",
+    "question": "Qui représente l'État dans un département ?",
+    "options": [
+      "Le maire",
+      "Le préfet",
+      "Le député",
+      "Le président du conseil régional"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-071",
+    "number": 71,
+    "category": "political_system",
+    "question": "Qui dirige la commune ?",
+    "options": [
+      "Le préfet",
+      "Le maire",
+      "Le député",
+      "Le ministre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-072",
+    "number": 72,
+    "category": "political_system",
+    "question": "Est-ce que le président de la République a tous les pouvoirs ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, en temps de guerre",
+      "Oui, s’il le décide"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-073",
+    "number": 73,
+    "category": "political_system",
+    "question": "Qui est le préfet ?",
+    "options": [
+      "Un élu local",
+      "Un représentant de l’État nommé par le gouvernement",
+      "Un juge",
+      "Un député"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-074",
+    "number": 74,
+    "category": "political_system",
+    "question": "Quel est le rôle du Parlement ?",
+    "options": [
+      "Appliquer les lois",
+      "Voter les lois et contrôler le gouvernement",
+      "Organiser les élections",
+      "Rédiger la Constitution"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-075",
+    "number": 75,
+    "category": "political_system",
+    "question": "Quel est le régime politique de la France aujourd'hui ?",
+    "options": [
+      "Monarchie absolue",
+      "Monarchie constitutionnelle",
+      "République démocratique",
+      "Empire"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-076",
+    "number": 76,
+    "category": "political_system",
+    "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?",
+    "options": [
+      "20",
+      "24",
+      "27",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-077",
+    "number": 77,
+    "category": "political_system",
+    "question": "Quel État n'est pas membre de l'Union européenne ?",
+    "options": [
+      "Espagne",
+      "Italie",
+      "Allemagne",
+      "Norvège"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-078",
+    "number": 78,
+    "category": "political_system",
+    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+    "options": [
+      "Être majeur et citoyen français ou européen",
+      "Être propriétaire",
+      "Avoir un diplôme",
+      "Être fonctionnaire"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-079",
+    "number": 79,
+    "category": "political_system",
+    "question": "À quelle fréquence les élections européennes sont-elles organisées ?",
+    "options": [
+      "Tous les 3 ans",
+      "Tous les 4 ans",
+      "Tous les 5 ans",
+      "Tous les 10 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-080",
+    "number": 80,
+    "category": "political_system",
+    "question": "Quel pays est un pays fondateur de l'Union européenne ?",
+    "options": [
+      "Portugal",
+      "France",
+      "Grèce",
+      "Suède"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-081",
+    "number": 81,
+    "category": "political_system",
+    "question": "Quelle est la monnaie utilisée en France ?",
+    "options": [
+      "Le dollar",
+      "Le franc",
+      "L’euro",
+      "La livre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-082",
+    "number": 82,
+    "category": "political_system",
+    "question": "Qui élit les députés européens ?",
+    "options": [
+      "Les gouvernements",
+      "Les Juges",
+      "Les maires",
+      "Les citoyens européens"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-083",
+    "number": 83,
+    "category": "political_system",
+    "question": "Quand célèbre-t-on la journée de l'Europe ?",
+    "options": [
+      "1er janvier",
+      "9 mai",
+      "14 juillet",
+      "25 décembre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-084",
+    "number": 84,
+    "category": "rights_and_duties",
+    "question": "Comment s’appelle la Constitution actuelle de la France ?",
+    "options": [
+      "Constitution de 1789",
+      "Constitution de 1946",
+      "Constitution de la Ve République",
+      "Constitution européenne"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-085",
+    "number": 85,
+    "category": "rights_and_duties",
+    "question": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?",
+    "options": [
+      "Le Code civil",
+      "La Déclaration des droits de l’homme et du citoyen",
+      "La Constitution",
+      "La Charte des droits et devoirs du citoyen"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Réponse retenue parmi les choix proposés ; la formulation est large et plusieurs textes organisent les droits et devoirs."
+  },
+  {
+    "id": "csp-086",
+    "number": 86,
+    "category": "rights_and_duties",
+    "question": "Concernant les droits individuels, quelle proposition est correcte ?",
+    "options": [
+      "Ils sont identiques pour tous",
+      "Ils dépendent de la religion",
+      "Ils sont réservés aux hommes",
+      "Ils varient selon la profession"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-087",
+    "number": 87,
+    "category": "rights_and_duties",
+    "question": "De quelle année date la Déclaration des droits de l’homme et du citoyen ?",
+    "options": [
+      "1789",
+      "1848",
+      "1905",
+      "1958"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-088",
+    "number": 88,
+    "category": "rights_and_duties",
+    "question": "Lequel de ces droits est un droit fondamental ?",
+    "options": [
+      "Le droit d’avoir une voiture",
+      "Le droit à la liberté",
+      "Le droit d’être riche",
+      "Le droit de voyager gratuitement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-089",
+    "number": 89,
+    "category": "rights_and_duties",
+    "question": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+    "options": [
+      "Le Code du travail",
+      "La Déclaration des droits de l’homme et du citoyen",
+      "Le Code de la route",
+      "Le règlement intérieur des écoles"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-090",
+    "number": 90,
+    "category": "rights_and_duties",
+    "question": "Qu’est-ce que la liberté d’expression ?",
+    "options": [
+      "Le droit de dire tout ce qu’on veut sans limite",
+      "Le droit d’exprimer ses idées dans le respect de la loi",
+      "Le droit d’insulter les autres",
+      "Le droit de parler uniquement en public"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-091",
+    "number": 91,
+    "category": "rights_and_duties",
+    "question": "Quel droit permet à une personne de se défendre devant la justice ?",
+    "options": [
+      "Le droit de vote",
+      "Le droit à un avocat",
+      "Le droit au logement",
+      "Le droit à la propriété"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-092",
+    "number": 92,
+    "category": "rights_and_duties",
+    "question": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+    "options": [
+      "Le Code civil",
+      "Le Code du travail",
+      "Le Code pénal",
+      "La constitution"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-093",
+    "number": 93,
+    "category": "rights_and_duties",
+    "question": "Quel texte a été adopté pendant la Révolution française ?",
+    "options": [
+      "La Déclaration des droits de l’homme et du citoyen",
+      "La Constitution de 1958",
+      "Le Code civil",
+      "Le traité de Maastricht"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-094",
+    "number": 94,
+    "category": "rights_and_duties",
+    "question": "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+    "options": [
+      "La liberté de circulation",
+      "La liberté de conscience",
+      "La liberté de vote",
+      "La liberté d’expression"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-095",
+    "number": 95,
+    "category": "rights_and_duties",
+    "question": "Une femme peut avorter :",
+    "options": [
+      "Jamais",
+      "Seulement si elle est mariée",
+      "Oui, dans le cadre prévu par la loi",
+      "Seulement avec l’accord du père"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-096",
+    "number": 96,
+    "category": "rights_and_duties",
+    "question": "Est-il toujours possible de divorcer ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, mais seulement pour faute",
+      "Oui, mais seulement après 10 ans de mariage"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-097",
+    "number": 97,
+    "category": "rights_and_duties",
+    "question": "La peine de mort est :",
+    "options": [
+      "Autorisée",
+      "Interdite depuis 1981",
+      "Autorisée pour les crimes graves",
+      "Autorisée en temps de guerre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-098",
+    "number": 98,
+    "category": "rights_and_duties",
+    "question": "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+    "options": [
+      "Elles n’existent pas",
+      "Elles protègent les autres et l’ordre public",
+      "Elles dépendent de la religion",
+      "Elles sont décidées par les citoyens"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-099",
+    "number": 99,
+    "category": "rights_and_duties",
+    "question": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, si les deux personnes sont d’accord",
+      "Oui, pour les étrangers"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-100",
+    "number": 100,
+    "category": "rights_and_duties",
+    "question": "Faut-il réduire ses déchets ?",
+    "options": [
+      "Non",
+      "Oui, pour protéger l’environnement",
+      "Seulement si on veut",
+      "Seulement en ville"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-101",
+    "number": 101,
+    "category": "rights_and_duties",
+    "question": "Jeter une bouteille dans la rue est :",
+    "options": [
+      "Autorisé",
+      "Interdit",
+      "Autorisé si elle est vide",
+      "Autorisé la nuit"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-102",
+    "number": 102,
+    "category": "rights_and_duties",
+    "question": "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+    "options": [
+      "Pour protéger l’ordre public et les autres",
+      "Pour empêcher les gens de parler",
+      "Pour favoriser une religion",
+      "Pour contrôler les citoyens"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-103",
+    "number": 103,
+    "category": "rights_and_duties",
+    "question": "Que doit faire une personne en cas d’accident ?",
+    "options": [
+      "Filmer la scène",
+      "Ne rien faire",
+      "Porter assistance ou appeler les secours",
+      "Partir rapidement"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-104",
+    "number": 104,
+    "category": "rights_and_duties",
+    "question": "Que permet la citoyenneté française ?",
+    "options": [
+      "De voyager gratuitement",
+      "De voter et d’être élu",
+      "De ne pas payer d’impôts",
+      "D’avoir un emploi garanti"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-105",
+    "number": 105,
+    "category": "rights_and_duties",
+    "question": "Que risque une personne qui ne respecte pas la loi ?",
+    "options": [
+      "Rien",
+      "Une récompense",
+      "Une sanction",
+      "Une promotion"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-106",
+    "number": 106,
+    "category": "rights_and_duties",
+    "question": "Quel est le rôle de la gendarmerie ?",
+    "options": [
+      "Faire les lois",
+      "Organiser les élections",
+      "Juger les citoyens",
+      "Assurer la sécurité dans les zones rurales"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-107",
+    "number": 107,
+    "category": "rights_and_duties",
+    "question": "Quel est le rôle de la police ?",
+    "options": [
+      "Protéger la population et maintenir l’ordre",
+      "Rédiger les lois",
+      "Juger les infractions",
+      "Diriger les mairies"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-108",
+    "number": 108,
+    "category": "rights_and_duties",
+    "question": "Qu'est-ce qu'une infraction ?",
+    "options": [
+      "Une bonne action",
+      "Une violation de la loi",
+      "Un acte administratif",
+      "Une récompense"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-109",
+    "number": 109,
+    "category": "rights_and_duties",
+    "question": "Comment peut-on réduire ses déchets ?",
+    "options": [
+      "En jetant tout dans la rue",
+      "En recyclant et en réutilisant",
+      "En achetant plus",
+      "En brûlant ses déchets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-110",
+    "number": 110,
+    "category": "rights_and_duties",
+    "question": "Déposer une machine à laver cassée sur le trottoir est :",
+    "options": [
+      "Autorisé",
+      "Autorisé le dimanche",
+      "Autorisé si elle est propre",
+      "Interdit"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Sauf dispositif de collecte autorisé par la commune."
+  },
+  {
+    "id": "csp-111",
+    "number": 111,
+    "category": "rights_and_duties",
+    "question": "En quoi consiste la traite des êtres humains ?",
+    "options": [
+      "Aider les personnes à voyager",
+      "Exploiter ou vendre des êtres humains",
+      "Organiser des mariages",
+      "Aider les personnes à trouver un emploi"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-112",
+    "number": 112,
+    "category": "rights_and_duties",
+    "question": "Que doit faire une victime de violences ?",
+    "options": [
+      "Se taire",
+      "Fuir le pays",
+      "Demander de l’aide et porter plainte",
+      "Attendre que ça passe"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-113",
+    "number": 113,
+    "category": "rights_and_duties",
+    "question": "Quelle est l'infraction la plus grave ?",
+    "options": [
+      "La contravention",
+      "Le délit",
+      "Le crime",
+      "L’amende"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-114",
+    "number": 114,
+    "category": "history_geography_culture",
+    "question": "En quelle année a débuté la Révolution française ?",
+    "options": [
+      "1492",
+      "1789",
+      "1815",
+      "1914"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-115",
+    "number": 115,
+    "category": "history_geography_culture",
+    "question": "Qui était Napoléon Ier ?",
+    "options": [
+      "Un roi de France",
+      "Un empereur français",
+      "Un président de la République",
+      "Un philosophe"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-116",
+    "number": 116,
+    "category": "history_geography_culture",
+    "question": "Lequel de ces personnages historiques est français ?",
+    "options": [
+      "Victor Hugo",
+      "Léonard de Vinci",
+      "Christophe Colomb",
+      "Shakespeare"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-117",
+    "number": 117,
+    "category": "history_geography_culture",
+    "question": "Dans quelle République est-on aujourd'hui ?",
+    "options": [
+      "IIᵉ République",
+      "IIIᵉ République",
+      "IVᵉ République",
+      "Vᵉ République"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-118",
+    "number": 118,
+    "category": "history_geography_culture",
+    "question": "Qu'est-ce que la Shoah ?",
+    "options": [
+      "Une fête religieuse",
+      "Un traité de paix",
+      "L’extermination des Juifs par les nazis",
+      "Une révolution"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-119",
+    "number": 119,
+    "category": "history_geography_culture",
+    "question": "Quel pays ou région du monde a été colonisé par la France ?",
+    "options": [
+      "Le Japon",
+      "Le Canada (Québec)",
+      "L’Australie",
+      "La Suède"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-120",
+    "number": 120,
+    "category": "history_geography_culture",
+    "question": "Qui a rendu l’école gratuite, laïque et obligatoire ?",
+    "options": [
+      "Napoléon",
+      "Jules Ferry",
+      "Louis XIV",
+      "Charles de Gaulle"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-121",
+    "number": 121,
+    "category": "history_geography_culture",
+    "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+    "options": [
+      "1914-1918",
+      "1939-1945",
+      "1870-1871",
+      "1960-1965"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-122",
+    "number": 122,
+    "category": "history_geography_culture",
+    "question": "Quand a eu lieu la Première Guerre mondiale ?",
+    "options": [
+      "1914-1918",
+      "1939-1945",
+      "1870-1871",
+      "1804-1815"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-123",
+    "number": 123,
+    "category": "history_geography_culture",
+    "question": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?",
+    "options": [
+      "1945",
+      "1957",
+      "1973",
+      "1992"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-124",
+    "number": 124,
+    "category": "history_geography_culture",
+    "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+    "options": [
+      "La fin de la Seconde Guerre mondiale",
+      "La fin de la Première Guerre mondiale",
+      "La prise de la Bastille",
+      "La naissance de la République"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-125",
+    "number": 125,
+    "category": "history_geography_culture",
+    "question": "Qui a été le premier Président élu sous la Ve République ?",
+    "options": [
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "Valéry Giscard d’Estaing"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-126",
+    "number": 126,
+    "category": "history_geography_culture",
+    "question": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?",
+    "options": [
+      "1789",
+      "1804",
+      "1848",
+      "1946"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-127",
+    "number": 127,
+    "category": "history_geography_culture",
+    "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+    "options": [
+      "1789",
+      "1830",
+      "1870",
+      "1881"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-128",
+    "number": 128,
+    "category": "history_geography_culture",
+    "question": "Combien y a-t-il eu de républiques en France ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-129",
+    "number": 129,
+    "category": "history_geography_culture",
+    "question": "Qui était le roi de France au moment de la Révolution française ?",
+    "options": [
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-130",
+    "number": 130,
+    "category": "history_geography_culture",
+    "question": "Qui a fondé la Ve République ?",
+    "options": [
+      "Napoléon",
+      "Charles de Gaulle",
+      "François Mitterrand",
+      "Jacques Chirac"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-131",
+    "number": 131,
+    "category": "history_geography_culture",
+    "question": "Que célèbre-t-on le 14 juillet ?",
+    "options": [
+      "La fin de la Seconde Guerre mondiale",
+      "La création de l’euro",
+      "La naissance de Napoléon",
+      "La prise de la Bastille et la fête de la Fédération"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-132",
+    "number": 132,
+    "category": "history_geography_culture",
+    "question": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+    "options": [
+      "La guerre de Cent Ans",
+      "La guerre de Sécession",
+      "La Première Guerre mondiale",
+      "La Seconde Guerre mondiale"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-133",
+    "number": 133,
+    "category": "history_geography_culture",
+    "question": "Pourquoi l’année 1958 est importante pour la France ?",
+    "options": [
+      "Début de la Première Guerre mondiale",
+      "Création de la Ve République",
+      "Abolition de l’esclavage",
+      "Entrée dans l’Union européenne"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-134",
+    "number": 134,
+    "category": "history_geography_culture",
+    "question": "Quel fleuve coule en France ?",
+    "options": [
+      "Le Nil",
+      "Le Mississippi",
+      "La Seine",
+      "Le Danube"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-135",
+    "number": 135,
+    "category": "history_geography_culture",
+    "question": "Quelle ville est française ?",
+    "options": [
+      "Madrid",
+      "Rome",
+      "Lyon",
+      "Berlin"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-136",
+    "number": 136,
+    "category": "history_geography_culture",
+    "question": "Quel océan borde la côte ouest française ?",
+    "options": [
+      "L’océan Indien",
+      "L’océan Pacifique",
+      "L’océan Atlantique",
+      "L’océan Arctique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-137",
+    "number": 137,
+    "category": "history_geography_culture",
+    "question": "Qu'est-ce que Paris ?",
+    "options": [
+      "Une île",
+      "Une montagne",
+      "Un fleuve",
+      "La capitale de la France"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-138",
+    "number": 138,
+    "category": "history_geography_culture",
+    "question": "Quelle est la capitale de la France ?",
+    "options": [
+      "Marseille",
+      "Lyon",
+      "Paris",
+      "Bordeaux"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-139",
+    "number": 139,
+    "category": "history_geography_culture",
+    "question": "Sur quel continent se situe la France métropolitaine ?",
+    "options": [
+      "Asie",
+      "Afrique",
+      "Europe",
+      "Amérique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-140",
+    "number": 140,
+    "category": "history_geography_culture",
+    "question": "Quelle île est un département d'outre-mer français ?",
+    "options": [
+      "Madagascar",
+      "La Réunion",
+      "Chypre",
+      "Malte"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-141",
+    "number": 141,
+    "category": "history_geography_culture",
+    "question": "Combien y a-t-il de régions en France métropolitaine ?",
+    "options": [
+      "13",
+      "18",
+      "22",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-142",
+    "number": 142,
+    "category": "history_geography_culture",
+    "question": "Quelle ville est un grand port maritime ?",
+    "options": [
+      "Dijon",
+      "Toulouse",
+      "Marseille",
+      "Limoges"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-143",
+    "number": 143,
+    "category": "history_geography_culture",
+    "question": "Quelle est la mer au sud de la France métropolitaine ?",
+    "options": [
+      "La mer du Nord",
+      "La mer Noire",
+      "La mer Baltique",
+      "La mer Méditerranée"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-144",
+    "number": 144,
+    "category": "history_geography_culture",
+    "question": "Quelle ville est située au bord de la mer Méditerranée ?",
+    "options": [
+      "Lille",
+      "Nice",
+      "Nantes",
+      "Rennes"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-145",
+    "number": 145,
+    "category": "history_geography_culture",
+    "question": "Où se situe la Corse ?",
+    "options": [
+      "Dans la mer Méditerranée",
+      "Dans l’océan Atlantique",
+      "Dans la mer du Nord",
+      "Dans l’océan Indien"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-146",
+    "number": 146,
+    "category": "history_geography_culture",
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+    "options": [
+      "Les Pyrénées",
+      "Les Alpes",
+      "Le Jura",
+      "Les Vosges"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-147",
+    "number": 147,
+    "category": "history_geography_culture",
+    "question": "Qui était Molière ?",
+    "options": [
+      "Un peintre",
+      "Un roi",
+      "Un scientifique",
+      "Un écrivain et dramaturge"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-148",
+    "number": 148,
+    "category": "history_geography_culture",
+    "question": "Qui était Charles Baudelaire ?",
+    "options": [
+      "Un poète",
+      "Un roi",
+      "Un général",
+      "Un peintre"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-149",
+    "number": 149,
+    "category": "history_geography_culture",
+    "question": "Qui était George Sand ?",
+    "options": [
+      "Un homme politique",
+      "Une écrivaine",
+      "Une scientifique",
+      "Une chanteuse"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-150",
+    "number": 150,
+    "category": "history_geography_culture",
+    "question": "Qui était Simone de Beauvoir ?",
+    "options": [
+      "Une peintre",
+      "Une chanteuse",
+      "Une philosophe et écrivaine",
+      "Une scientifique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-151",
+    "number": 151,
+    "category": "history_geography_culture",
+    "question": "Qui était Albert Camus ?",
+    "options": [
+      "Un acteur",
+      "Un écrivain et philosophe",
+      "Un roi",
+      "Un peintre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-152",
+    "number": 152,
+    "category": "history_geography_culture",
+    "question": "Qui était Paul Cézanne ?",
+    "options": [
+      "Un peintre",
+      "Un poète",
+      "Un scientifique",
+      "Un musicien"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-153",
+    "number": 153,
+    "category": "history_geography_culture",
+    "question": "Qui était Marc Chagall ?",
+    "options": [
+      "Un écrivain",
+      "Un peintre",
+      "Un scientifique",
+      "Un roi"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-154",
+    "number": 154,
+    "category": "history_geography_culture",
+    "question": "Qui était Joséphine Baker ?",
+    "options": [
+      "Une reine",
+      "Une scientifique",
+      "Une peintre",
+      "Une danseuse et chanteuse"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-155",
+    "number": 155,
+    "category": "history_geography_culture",
+    "question": "Qui était une chanteuse française célèbre ?",
+    "options": [
+      "Rihanna",
+      "Beyoncé",
+      "Edith Piaf",
+      "Adele"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-156",
+    "number": 156,
+    "category": "history_geography_culture",
+    "question": "Qu'est-ce que le Louvre ?",
+    "options": [
+      "Un fleuve",
+      "Un musée",
+      "Une montagne",
+      "Une île"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-157",
+    "number": 157,
+    "category": "history_geography_culture",
+    "question": "Qui était Jean de la Fontaine ?",
+    "options": [
+      "Un peintre",
+      "Un roi",
+      "Un scientifique",
+      "Un fabuliste"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-158",
+    "number": 158,
+    "category": "history_geography_culture",
+    "question": "Quel écrivain est français ?",
+    "options": [
+      "Shakespeare",
+      "Victor Hugo",
+      "Cervantès",
+      "Tolstoï"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-159",
+    "number": 159,
+    "category": "history_geography_culture",
+    "question": "Dans quelle ville se trouve la tour Eiffel ?",
+    "options": [
+      "Marseille",
+      "Lyon",
+      "Paris",
+      "Bordeaux"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-160",
+    "number": 160,
+    "category": "history_geography_culture",
+    "question": "Quand célèbre-t-on Noël ?",
+    "options": [
+      "1er janvier",
+      "14 juillet",
+      "25 décembre",
+      "31 octobre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-161",
+    "number": 161,
+    "category": "living_in_france",
+    "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "112"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Le 15 est le numéro direct du SAMU ; le 112 est également un numéro d’urgence."
+  },
+  {
+    "id": "csp-162",
+    "number": 162,
+    "category": "living_in_france",
+    "question": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "114"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-163",
+    "number": 163,
+    "category": "living_in_france",
+    "question": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+    "options": [
+      "Acheter une vignette",
+      "Souscrire une assurance automobile",
+      "Passer un examen médical",
+      "Avoir 25 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-164",
+    "number": 164,
+    "category": "living_in_france",
+    "question": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+    "options": [
+      "Si la cérémonie est religieuse",
+      "Si les deux personnes sont majeures",
+      "S’il est célébré en mairie",
+      "S’il est célébré à l’étranger"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Pour un mariage célébré en France ; un mariage célébré à l’étranger peut aussi être reconnu sous conditions."
+  },
+  {
+    "id": "csp-165",
+    "number": 165,
+    "category": "living_in_france",
+    "question": "Quand faut-il déclarer son enfant au service d'état civil de la mairie ?",
+    "options": [
+      "Dans les 24 heures",
+      "Dans les 3 jours",
+      "Dans les 5 jours",
+      "Dans le mois"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Délai général de cinq jours, avec exceptions locales."
+  },
+  {
+    "id": "csp-166",
+    "number": 166,
+    "category": "living_in_france",
+    "question": "Le travail non déclaré est :",
+    "options": [
+      "Autorisé",
+      "Interdit",
+      "Autorisé pour les étudiants",
+      "Autorisé le week-end"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-167",
+    "number": 167,
+    "category": "living_in_france",
+    "question": "Que doit faire un employeur pour fixer un salaire ?",
+    "options": [
+      "Décider librement",
+      "Respecter le SMIC et les conventions collectives",
+      "Demander l’avis du maire",
+      "Suivre le salaire du voisin"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-168",
+    "number": 168,
+    "category": "living_in_france",
+    "question": "Qu'est-ce que le SMIC ?",
+    "options": [
+      "Un impôt",
+      "Le salaire minimum légal",
+      "Une aide sociale",
+      "Un diplôme"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-169",
+    "number": 169,
+    "category": "living_in_france",
+    "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+    "options": [
+      "Aller à la mairie",
+      "Passer le permis",
+      "Acheter un ordinateur",
+      "S’inscrire à France Travail"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "L’inscription à France Travail est une démarche utile, mais non obligatoire pour rechercher un emploi."
+  },
+  {
+    "id": "csp-170",
+    "number": 170,
+    "category": "living_in_france",
+    "question": "Quelle est la durée légale du temps de travail par semaine ?",
+    "options": [
+      "25 heures",
+      "30 heures",
+      "35 heures",
+      "48 heures"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-171",
+    "number": 171,
+    "category": "living_in_france",
+    "question": "Qui est aidé par France Travail ?",
+    "options": [
+      "Les retraités",
+      "Les demandeurs d’emploi",
+      "Les étudiants",
+      "Les touristes"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-172",
+    "number": 172,
+    "category": "living_in_france",
+    "question": "Une personne étrangère en situation régulière peut créer son entreprise :",
+    "options": [
+      "Non",
+      "Oui",
+      "Oui, seulement si elle est mariée",
+      "Oui, mais uniquement dans le bâtiment"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Sous réserve notamment du titre de séjour autorisant l’activité indépendante."
+  },
+  {
+    "id": "csp-173",
+    "number": 173,
+    "category": "living_in_france",
+    "question": "Une femme peut-elle créer son entreprise ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, avec l’accord de son mari",
+      "Oui, mais seulement après 30 ans"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-174",
+    "number": 174,
+    "category": "living_in_france",
+    "question": "À partir de quel âge un mineur peut-il travailler ?",
+    "options": [
+      "12 ans",
+      "14 ans",
+      "16 ans",
+      "18 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "En règle générale 16 ans ; travail possible dès 14 ans pendant les vacances scolaires sous conditions."
+  },
+  {
+    "id": "csp-175",
+    "number": 175,
+    "category": "living_in_france",
+    "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "options": [
+      "La mairie",
+      "La CAF",
+      "L’école",
+      "L’assurance maladie"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-176",
+    "number": 176,
+    "category": "living_in_france",
+    "question": "Qu’est-ce qu’un numéro d’urgence ?",
+    "options": [
+      "Un numéro payant",
+      "Un numéro pour les démarches administratives",
+      "Un numéro gratuit pour obtenir de l’aide immédiate",
+      "Un numéro pour commander un taxi"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-177",
+    "number": 177,
+    "category": "living_in_france",
+    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+    "options": [
+      "Les soins sont gratuits pour tout le monde",
+      "On doit toujours aller aux urgences",
+      "On peut consulter un médecin généraliste",
+      "On doit appeler le SAMU pour un rhume"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-178",
+    "number": 178,
+    "category": "living_in_france",
+    "question": "En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ?",
+    "options": [
+      "Aux urgences",
+      "À la police",
+      "À son médecin traitant",
+      "À un avocat"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-179",
+    "number": 179,
+    "category": "living_in_france",
+    "question": "Quel est le rôle du médecin traitant ?",
+    "options": [
+      "Inscrire un patient à l'assurance maladie",
+      "Assurer le suivi médical du patient",
+      "Délivrer des cartes vitales",
+      "Expliquer les prises en charge de la CPAM"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-180",
+    "number": 180,
+    "category": "living_in_france",
+    "question": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+    "options": [
+      "Pour renouveler une ordonnance",
+      "Pour un rhume",
+      "Pour un certificat médical",
+      "En cas de danger grave ou immédiat"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-181",
+    "number": 181,
+    "category": "living_in_france",
+    "question": "Quel est l’objectif des vaccinations obligatoires ?",
+    "options": [
+      "Inscrire un enfant à l’école",
+      "Protéger la population contre les maladies graves",
+      "Empêcher les voyages",
+      "Rendre les enfants plus forts"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-182",
+    "number": 182,
+    "category": "living_in_france",
+    "question": "À quoi sert la carte Vitale ?",
+    "options": [
+      "À payer les courses",
+      "À prouver son identité",
+      "À être remboursé plus rapidement des soins",
+      "À voter"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-183",
+    "number": 183,
+    "category": "living_in_france",
+    "question": "À quoi sert une mutuelle santé ?",
+    "options": [
+      "À payer les impôts",
+      "À compléter les remboursements de la Sécurité sociale",
+      "À obtenir un logement",
+      "À voyager gratuitement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-184",
+    "number": 184,
+    "category": "living_in_france",
+    "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+    "options": [
+      "12 ans",
+      "14 ans",
+      "16 ans",
+      "18 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "L’instruction est obligatoire de 3 à 16 ans ; obligation de formation jusqu’à 18 ans."
+  },
+  {
+    "id": "csp-185",
+    "number": 185,
+    "category": "living_in_france",
+    "question": "L'autorité parentale prévoit l'obligation :",
+    "options": [
+      "De donner de l’argent aux enfants",
+      "De protéger, éduquer et soigner l’enfant",
+      "De choisir la religion de l’enfant",
+      "De lui acheter un téléphone"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-186",
+    "number": 186,
+    "category": "living_in_france",
+    "question": "Pour qui l'école est-elle obligatoire ?",
+    "options": [
+      "Pour les enfants français uniquement",
+      "Pour les enfants de plus de 18 ans",
+      "Pour les enfants riches",
+      "Pour tous les enfants résidant en France"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-187",
+    "number": 187,
+    "category": "living_in_france",
+    "question": "Quel diplôme obtient-on à la fin du lycée ?",
+    "options": [
+      "Le brevet",
+      "Le CAP",
+      "Le baccalauréat",
+      "Le master"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Le baccalauréat est la réponse attendue ; certains parcours professionnels mènent à d’autres diplômes."
+  },
+  {
+    "id": "csp-188",
+    "number": 188,
+    "category": "living_in_france",
+    "question": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+    "options": [
+      "À l’université",
+      "Au collège",
+      "À la maternelle",
+      "À l’école privée uniquement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-189",
+    "number": 189,
+    "category": "living_in_france",
+    "question": "Pour qui l'école est elle obligatoire ?",
+    "options": [
+      "Pour les enfants français",
+      "Pour tous les enfants résidant en France",
+      "Pour les enfants de plus de 18 ans",
+      "Pour les enfants qui parlent français"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-190",
+    "number": 190,
+    "category": "living_in_france",
+    "question": "Un enfant inscrit à l'école :",
+    "options": [
+      "Peut ne pas venir s’il n’a pas envie",
+      "Peut choisir ses horaires",
+      "Peut venir seulement le matin",
+      "Doit être présent régulièrement"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-191",
+    "number": 191,
+    "category": "living_in_france",
+    "question": "Les enfants qui ne parlent pas français :",
+    "options": [
+      "Ne peuvent pas aller à l’école",
+      "Sont exclus",
+      "Sont accueillis et peuvent bénéficier d’un accompagnement",
+      "Doivent attendre d’être bilingues"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  }
+]

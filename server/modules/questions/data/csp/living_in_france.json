@@ -1,0 +1,599 @@
+[
+  {
+    "id": "csp-161",
+    "number": 161,
+    "category": "living_in_france",
+    "question": "Quel numéro d'urgence permet d'appeler le SAMU ?",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "112"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Le 15 est le numéro direct du SAMU ; le 112 est également un numéro d’urgence."
+  },
+  {
+    "id": "csp-162",
+    "number": 162,
+    "category": "living_in_france",
+    "question": "Quel numéro d'urgence permet d'appeler les pompiers ?",
+    "options": [
+      "15",
+      "17",
+      "18",
+      "114"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-163",
+    "number": 163,
+    "category": "living_in_france",
+    "question": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?",
+    "options": [
+      "Acheter une vignette",
+      "Souscrire une assurance automobile",
+      "Passer un examen médical",
+      "Avoir 25 ans"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-164",
+    "number": 164,
+    "category": "living_in_france",
+    "question": "À quelles conditions un mariage est-il reconnu juridiquement ?",
+    "options": [
+      "Si la cérémonie est religieuse",
+      "Si les deux personnes sont majeures",
+      "S’il est célébré en mairie",
+      "S’il est célébré à l’étranger"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Pour un mariage célébré en France ; un mariage célébré à l’étranger peut aussi être reconnu sous conditions."
+  },
+  {
+    "id": "csp-165",
+    "number": 165,
+    "category": "living_in_france",
+    "question": "Quand faut-il déclarer son enfant au service d'état civil de la mairie ?",
+    "options": [
+      "Dans les 24 heures",
+      "Dans les 3 jours",
+      "Dans les 5 jours",
+      "Dans le mois"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Délai général de cinq jours, avec exceptions locales."
+  },
+  {
+    "id": "csp-166",
+    "number": 166,
+    "category": "living_in_france",
+    "question": "Le travail non déclaré est :",
+    "options": [
+      "Autorisé",
+      "Interdit",
+      "Autorisé pour les étudiants",
+      "Autorisé le week-end"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-167",
+    "number": 167,
+    "category": "living_in_france",
+    "question": "Que doit faire un employeur pour fixer un salaire ?",
+    "options": [
+      "Décider librement",
+      "Respecter le SMIC et les conventions collectives",
+      "Demander l’avis du maire",
+      "Suivre le salaire du voisin"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-168",
+    "number": 168,
+    "category": "living_in_france",
+    "question": "Qu'est-ce que le SMIC ?",
+    "options": [
+      "Un impôt",
+      "Le salaire minimum légal",
+      "Une aide sociale",
+      "Un diplôme"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-169",
+    "number": 169,
+    "category": "living_in_france",
+    "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?",
+    "options": [
+      "Aller à la mairie",
+      "Passer le permis",
+      "Acheter un ordinateur",
+      "S’inscrire à France Travail"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "L’inscription à France Travail est une démarche utile, mais non obligatoire pour rechercher un emploi."
+  },
+  {
+    "id": "csp-170",
+    "number": 170,
+    "category": "living_in_france",
+    "question": "Quelle est la durée légale du temps de travail par semaine ?",
+    "options": [
+      "25 heures",
+      "30 heures",
+      "35 heures",
+      "48 heures"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-171",
+    "number": 171,
+    "category": "living_in_france",
+    "question": "Qui est aidé par France Travail ?",
+    "options": [
+      "Les retraités",
+      "Les demandeurs d’emploi",
+      "Les étudiants",
+      "Les touristes"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-172",
+    "number": 172,
+    "category": "living_in_france",
+    "question": "Une personne étrangère en situation régulière peut créer son entreprise :",
+    "options": [
+      "Non",
+      "Oui",
+      "Oui, seulement si elle est mariée",
+      "Oui, mais uniquement dans le bâtiment"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Sous réserve notamment du titre de séjour autorisant l’activité indépendante."
+  },
+  {
+    "id": "csp-173",
+    "number": 173,
+    "category": "living_in_france",
+    "question": "Une femme peut-elle créer son entreprise ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, avec l’accord de son mari",
+      "Oui, mais seulement après 30 ans"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-174",
+    "number": 174,
+    "category": "living_in_france",
+    "question": "À partir de quel âge un mineur peut-il travailler ?",
+    "options": [
+      "12 ans",
+      "14 ans",
+      "16 ans",
+      "18 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "En règle générale 16 ans ; travail possible dès 14 ans pendant les vacances scolaires sous conditions."
+  },
+  {
+    "id": "csp-175",
+    "number": 175,
+    "category": "living_in_france",
+    "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "options": [
+      "La mairie",
+      "La CAF",
+      "L’école",
+      "L’assurance maladie"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-176",
+    "number": 176,
+    "category": "living_in_france",
+    "question": "Qu’est-ce qu’un numéro d’urgence ?",
+    "options": [
+      "Un numéro payant",
+      "Un numéro pour les démarches administratives",
+      "Un numéro gratuit pour obtenir de l’aide immédiate",
+      "Un numéro pour commander un taxi"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-177",
+    "number": 177,
+    "category": "living_in_france",
+    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+    "options": [
+      "Les soins sont gratuits pour tout le monde",
+      "On doit toujours aller aux urgences",
+      "On peut consulter un médecin généraliste",
+      "On doit appeler le SAMU pour un rhume"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-178",
+    "number": 178,
+    "category": "living_in_france",
+    "question": "En cas de problème de santé non urgent, à qui faut-il s’adresser en premier ?",
+    "options": [
+      "Aux urgences",
+      "À la police",
+      "À son médecin traitant",
+      "À un avocat"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-179",
+    "number": 179,
+    "category": "living_in_france",
+    "question": "Quel est le rôle du médecin traitant ?",
+    "options": [
+      "Inscrire un patient à l'assurance maladie",
+      "Assurer le suivi médical du patient",
+      "Délivrer des cartes vitales",
+      "Expliquer les prises en charge de la CPAM"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-180",
+    "number": 180,
+    "category": "living_in_france",
+    "question": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?",
+    "options": [
+      "Pour renouveler une ordonnance",
+      "Pour un rhume",
+      "Pour un certificat médical",
+      "En cas de danger grave ou immédiat"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-181",
+    "number": 181,
+    "category": "living_in_france",
+    "question": "Quel est l’objectif des vaccinations obligatoires ?",
+    "options": [
+      "Inscrire un enfant à l’école",
+      "Protéger la population contre les maladies graves",
+      "Empêcher les voyages",
+      "Rendre les enfants plus forts"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-182",
+    "number": 182,
+    "category": "living_in_france",
+    "question": "À quoi sert la carte Vitale ?",
+    "options": [
+      "À payer les courses",
+      "À prouver son identité",
+      "À être remboursé plus rapidement des soins",
+      "À voter"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-183",
+    "number": 183,
+    "category": "living_in_france",
+    "question": "À quoi sert une mutuelle santé ?",
+    "options": [
+      "À payer les impôts",
+      "À compléter les remboursements de la Sécurité sociale",
+      "À obtenir un logement",
+      "À voyager gratuitement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-184",
+    "number": 184,
+    "category": "living_in_france",
+    "question": "Jusqu'à quel âge l'école est-elle obligatoire ?",
+    "options": [
+      "12 ans",
+      "14 ans",
+      "16 ans",
+      "18 ans"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "L’instruction est obligatoire de 3 à 16 ans ; obligation de formation jusqu’à 18 ans."
+  },
+  {
+    "id": "csp-185",
+    "number": 185,
+    "category": "living_in_france",
+    "question": "L'autorité parentale prévoit l'obligation :",
+    "options": [
+      "De donner de l’argent aux enfants",
+      "De protéger, éduquer et soigner l’enfant",
+      "De choisir la religion de l’enfant",
+      "De lui acheter un téléphone"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-186",
+    "number": 186,
+    "category": "living_in_france",
+    "question": "Pour qui l'école est-elle obligatoire ?",
+    "options": [
+      "Pour les enfants français uniquement",
+      "Pour les enfants de plus de 18 ans",
+      "Pour les enfants riches",
+      "Pour tous les enfants résidant en France"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-187",
+    "number": 187,
+    "category": "living_in_france",
+    "question": "Quel diplôme obtient-on à la fin du lycée ?",
+    "options": [
+      "Le brevet",
+      "Le CAP",
+      "Le baccalauréat",
+      "Le master"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Le baccalauréat est la réponse attendue ; certains parcours professionnels mènent à d’autres diplômes."
+  },
+  {
+    "id": "csp-188",
+    "number": 188,
+    "category": "living_in_france",
+    "question": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?",
+    "options": [
+      "À l’université",
+      "Au collège",
+      "À la maternelle",
+      "À l’école privée uniquement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-189",
+    "number": 189,
+    "category": "living_in_france",
+    "question": "Pour qui l'école est elle obligatoire ?",
+    "options": [
+      "Pour les enfants français",
+      "Pour tous les enfants résidant en France",
+      "Pour les enfants de plus de 18 ans",
+      "Pour les enfants qui parlent français"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-190",
+    "number": 190,
+    "category": "living_in_france",
+    "question": "Un enfant inscrit à l'école :",
+    "options": [
+      "Peut ne pas venir s’il n’a pas envie",
+      "Peut choisir ses horaires",
+      "Peut venir seulement le matin",
+      "Doit être présent régulièrement"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-191",
+    "number": 191,
+    "category": "living_in_france",
+    "question": "Les enfants qui ne parlent pas français :",
+    "options": [
+      "Ne peuvent pas aller à l’école",
+      "Sont exclus",
+      "Sont accueillis et peuvent bénéficier d’un accompagnement",
+      "Doivent attendre d’être bilingues"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  }
+]

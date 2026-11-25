@@ -1,0 +1,895 @@
+[
+  {
+    "id": "csp-114",
+    "number": 114,
+    "category": "history_geography_culture",
+    "question": "En quelle année a débuté la Révolution française ?",
+    "options": [
+      "1492",
+      "1789",
+      "1815",
+      "1914"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-115",
+    "number": 115,
+    "category": "history_geography_culture",
+    "question": "Qui était Napoléon Ier ?",
+    "options": [
+      "Un roi de France",
+      "Un empereur français",
+      "Un président de la République",
+      "Un philosophe"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-116",
+    "number": 116,
+    "category": "history_geography_culture",
+    "question": "Lequel de ces personnages historiques est français ?",
+    "options": [
+      "Victor Hugo",
+      "Léonard de Vinci",
+      "Christophe Colomb",
+      "Shakespeare"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-117",
+    "number": 117,
+    "category": "history_geography_culture",
+    "question": "Dans quelle République est-on aujourd'hui ?",
+    "options": [
+      "IIᵉ République",
+      "IIIᵉ République",
+      "IVᵉ République",
+      "Vᵉ République"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-118",
+    "number": 118,
+    "category": "history_geography_culture",
+    "question": "Qu'est-ce que la Shoah ?",
+    "options": [
+      "Une fête religieuse",
+      "Un traité de paix",
+      "L’extermination des Juifs par les nazis",
+      "Une révolution"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-119",
+    "number": 119,
+    "category": "history_geography_culture",
+    "question": "Quel pays ou région du monde a été colonisé par la France ?",
+    "options": [
+      "Le Japon",
+      "Le Canada (Québec)",
+      "L’Australie",
+      "La Suède"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-120",
+    "number": 120,
+    "category": "history_geography_culture",
+    "question": "Qui a rendu l’école gratuite, laïque et obligatoire ?",
+    "options": [
+      "Napoléon",
+      "Jules Ferry",
+      "Louis XIV",
+      "Charles de Gaulle"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-121",
+    "number": 121,
+    "category": "history_geography_culture",
+    "question": "Quand a eu lieu la Seconde Guerre mondiale ?",
+    "options": [
+      "1914-1918",
+      "1939-1945",
+      "1870-1871",
+      "1960-1965"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-122",
+    "number": 122,
+    "category": "history_geography_culture",
+    "question": "Quand a eu lieu la Première Guerre mondiale ?",
+    "options": [
+      "1914-1918",
+      "1939-1945",
+      "1870-1871",
+      "1804-1815"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-123",
+    "number": 123,
+    "category": "history_geography_culture",
+    "question": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?",
+    "options": [
+      "1945",
+      "1957",
+      "1973",
+      "1992"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-124",
+    "number": 124,
+    "category": "history_geography_culture",
+    "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?",
+    "options": [
+      "La fin de la Seconde Guerre mondiale",
+      "La fin de la Première Guerre mondiale",
+      "La prise de la Bastille",
+      "La naissance de la République"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-125",
+    "number": 125,
+    "category": "history_geography_culture",
+    "question": "Qui a été le premier Président élu sous la Ve République ?",
+    "options": [
+      "François Mitterrand",
+      "Charles de Gaulle",
+      "Georges Pompidou",
+      "Valéry Giscard d’Estaing"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-126",
+    "number": 126,
+    "category": "history_geography_culture",
+    "question": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?",
+    "options": [
+      "1789",
+      "1804",
+      "1848",
+      "1946"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-127",
+    "number": 127,
+    "category": "history_geography_culture",
+    "question": "Depuis quelle année l'école publique est-elle gratuite ?",
+    "options": [
+      "1789",
+      "1830",
+      "1870",
+      "1881"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-128",
+    "number": 128,
+    "category": "history_geography_culture",
+    "question": "Combien y a-t-il eu de républiques en France ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-129",
+    "number": 129,
+    "category": "history_geography_culture",
+    "question": "Qui était le roi de France au moment de la Révolution française ?",
+    "options": [
+      "Louis XIII",
+      "Louis XIV",
+      "Louis XV",
+      "Louis XVI"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-130",
+    "number": 130,
+    "category": "history_geography_culture",
+    "question": "Qui a fondé la Ve République ?",
+    "options": [
+      "Napoléon",
+      "Charles de Gaulle",
+      "François Mitterrand",
+      "Jacques Chirac"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-131",
+    "number": 131,
+    "category": "history_geography_culture",
+    "question": "Que célèbre-t-on le 14 juillet ?",
+    "options": [
+      "La fin de la Seconde Guerre mondiale",
+      "La création de l’euro",
+      "La naissance de Napoléon",
+      "La prise de la Bastille et la fête de la Fédération"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-132",
+    "number": 132,
+    "category": "history_geography_culture",
+    "question": "Quelle guerre a eu lieu entre 1914 et 1918 ?",
+    "options": [
+      "La guerre de Cent Ans",
+      "La guerre de Sécession",
+      "La Première Guerre mondiale",
+      "La Seconde Guerre mondiale"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-133",
+    "number": 133,
+    "category": "history_geography_culture",
+    "question": "Pourquoi l’année 1958 est importante pour la France ?",
+    "options": [
+      "Début de la Première Guerre mondiale",
+      "Création de la Ve République",
+      "Abolition de l’esclavage",
+      "Entrée dans l’Union européenne"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-134",
+    "number": 134,
+    "category": "history_geography_culture",
+    "question": "Quel fleuve coule en France ?",
+    "options": [
+      "Le Nil",
+      "Le Mississippi",
+      "La Seine",
+      "Le Danube"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-135",
+    "number": 135,
+    "category": "history_geography_culture",
+    "question": "Quelle ville est française ?",
+    "options": [
+      "Madrid",
+      "Rome",
+      "Lyon",
+      "Berlin"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-136",
+    "number": 136,
+    "category": "history_geography_culture",
+    "question": "Quel océan borde la côte ouest française ?",
+    "options": [
+      "L’océan Indien",
+      "L’océan Pacifique",
+      "L’océan Atlantique",
+      "L’océan Arctique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-137",
+    "number": 137,
+    "category": "history_geography_culture",
+    "question": "Qu'est-ce que Paris ?",
+    "options": [
+      "Une île",
+      "Une montagne",
+      "Un fleuve",
+      "La capitale de la France"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-138",
+    "number": 138,
+    "category": "history_geography_culture",
+    "question": "Quelle est la capitale de la France ?",
+    "options": [
+      "Marseille",
+      "Lyon",
+      "Paris",
+      "Bordeaux"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-139",
+    "number": 139,
+    "category": "history_geography_culture",
+    "question": "Sur quel continent se situe la France métropolitaine ?",
+    "options": [
+      "Asie",
+      "Afrique",
+      "Europe",
+      "Amérique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-140",
+    "number": 140,
+    "category": "history_geography_culture",
+    "question": "Quelle île est un département d'outre-mer français ?",
+    "options": [
+      "Madagascar",
+      "La Réunion",
+      "Chypre",
+      "Malte"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-141",
+    "number": 141,
+    "category": "history_geography_culture",
+    "question": "Combien y a-t-il de régions en France métropolitaine ?",
+    "options": [
+      "13",
+      "18",
+      "22",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-142",
+    "number": 142,
+    "category": "history_geography_culture",
+    "question": "Quelle ville est un grand port maritime ?",
+    "options": [
+      "Dijon",
+      "Toulouse",
+      "Marseille",
+      "Limoges"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-143",
+    "number": 143,
+    "category": "history_geography_culture",
+    "question": "Quelle est la mer au sud de la France métropolitaine ?",
+    "options": [
+      "La mer du Nord",
+      "La mer Noire",
+      "La mer Baltique",
+      "La mer Méditerranée"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-144",
+    "number": 144,
+    "category": "history_geography_culture",
+    "question": "Quelle ville est située au bord de la mer Méditerranée ?",
+    "options": [
+      "Lille",
+      "Nice",
+      "Nantes",
+      "Rennes"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-145",
+    "number": 145,
+    "category": "history_geography_culture",
+    "question": "Où se situe la Corse ?",
+    "options": [
+      "Dans la mer Méditerranée",
+      "Dans l’océan Atlantique",
+      "Dans la mer du Nord",
+      "Dans l’océan Indien"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-146",
+    "number": 146,
+    "category": "history_geography_culture",
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?",
+    "options": [
+      "Les Pyrénées",
+      "Les Alpes",
+      "Le Jura",
+      "Les Vosges"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-147",
+    "number": 147,
+    "category": "history_geography_culture",
+    "question": "Qui était Molière ?",
+    "options": [
+      "Un peintre",
+      "Un roi",
+      "Un scientifique",
+      "Un écrivain et dramaturge"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-148",
+    "number": 148,
+    "category": "history_geography_culture",
+    "question": "Qui était Charles Baudelaire ?",
+    "options": [
+      "Un poète",
+      "Un roi",
+      "Un général",
+      "Un peintre"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-149",
+    "number": 149,
+    "category": "history_geography_culture",
+    "question": "Qui était George Sand ?",
+    "options": [
+      "Un homme politique",
+      "Une écrivaine",
+      "Une scientifique",
+      "Une chanteuse"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-150",
+    "number": 150,
+    "category": "history_geography_culture",
+    "question": "Qui était Simone de Beauvoir ?",
+    "options": [
+      "Une peintre",
+      "Une chanteuse",
+      "Une philosophe et écrivaine",
+      "Une scientifique"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-151",
+    "number": 151,
+    "category": "history_geography_culture",
+    "question": "Qui était Albert Camus ?",
+    "options": [
+      "Un acteur",
+      "Un écrivain et philosophe",
+      "Un roi",
+      "Un peintre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-152",
+    "number": 152,
+    "category": "history_geography_culture",
+    "question": "Qui était Paul Cézanne ?",
+    "options": [
+      "Un peintre",
+      "Un poète",
+      "Un scientifique",
+      "Un musicien"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-153",
+    "number": 153,
+    "category": "history_geography_culture",
+    "question": "Qui était Marc Chagall ?",
+    "options": [
+      "Un écrivain",
+      "Un peintre",
+      "Un scientifique",
+      "Un roi"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-154",
+    "number": 154,
+    "category": "history_geography_culture",
+    "question": "Qui était Joséphine Baker ?",
+    "options": [
+      "Une reine",
+      "Une scientifique",
+      "Une peintre",
+      "Une danseuse et chanteuse"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-155",
+    "number": 155,
+    "category": "history_geography_culture",
+    "question": "Qui était une chanteuse française célèbre ?",
+    "options": [
+      "Rihanna",
+      "Beyoncé",
+      "Edith Piaf",
+      "Adele"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-156",
+    "number": 156,
+    "category": "history_geography_culture",
+    "question": "Qu'est-ce que le Louvre ?",
+    "options": [
+      "Un fleuve",
+      "Un musée",
+      "Une montagne",
+      "Une île"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-157",
+    "number": 157,
+    "category": "history_geography_culture",
+    "question": "Qui était Jean de la Fontaine ?",
+    "options": [
+      "Un peintre",
+      "Un roi",
+      "Un scientifique",
+      "Un fabuliste"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-158",
+    "number": 158,
+    "category": "history_geography_culture",
+    "question": "Quel écrivain est français ?",
+    "options": [
+      "Shakespeare",
+      "Victor Hugo",
+      "Cervantès",
+      "Tolstoï"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-159",
+    "number": 159,
+    "category": "history_geography_culture",
+    "question": "Dans quelle ville se trouve la tour Eiffel ?",
+    "options": [
+      "Marseille",
+      "Lyon",
+      "Paris",
+      "Bordeaux"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-160",
+    "number": 160,
+    "category": "history_geography_culture",
+    "question": "Quand célèbre-t-on Noël ?",
+    "options": [
+      "1er janvier",
+      "14 juillet",
+      "25 décembre",
+      "31 octobre"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  }
+]

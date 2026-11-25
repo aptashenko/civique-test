@@ -1,0 +1,574 @@
+[
+  {
+    "id": "csp-084",
+    "number": 84,
+    "category": "rights_and_duties",
+    "question": "Comment s’appelle la Constitution actuelle de la France ?",
+    "options": [
+      "Constitution de 1789",
+      "Constitution de 1946",
+      "Constitution de la Ve République",
+      "Constitution européenne"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-085",
+    "number": 85,
+    "category": "rights_and_duties",
+    "question": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?",
+    "options": [
+      "Le Code civil",
+      "La Déclaration des droits de l’homme et du citoyen",
+      "La Constitution",
+      "La Charte des droits et devoirs du citoyen"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Réponse retenue parmi les choix proposés ; la formulation est large et plusieurs textes organisent les droits et devoirs."
+  },
+  {
+    "id": "csp-086",
+    "number": 86,
+    "category": "rights_and_duties",
+    "question": "Concernant les droits individuels, quelle proposition est correcte ?",
+    "options": [
+      "Ils sont identiques pour tous",
+      "Ils dépendent de la religion",
+      "Ils sont réservés aux hommes",
+      "Ils varient selon la profession"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-087",
+    "number": 87,
+    "category": "rights_and_duties",
+    "question": "De quelle année date la Déclaration des droits de l’homme et du citoyen ?",
+    "options": [
+      "1789",
+      "1848",
+      "1905",
+      "1958"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-088",
+    "number": 88,
+    "category": "rights_and_duties",
+    "question": "Lequel de ces droits est un droit fondamental ?",
+    "options": [
+      "Le droit d’avoir une voiture",
+      "Le droit à la liberté",
+      "Le droit d’être riche",
+      "Le droit de voyager gratuitement"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-089",
+    "number": 89,
+    "category": "rights_and_duties",
+    "question": "Parmi ces textes, lequel garantit les droits et libertés en France ?",
+    "options": [
+      "Le Code du travail",
+      "La Déclaration des droits de l’homme et du citoyen",
+      "Le Code de la route",
+      "Le règlement intérieur des écoles"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-090",
+    "number": 90,
+    "category": "rights_and_duties",
+    "question": "Qu’est-ce que la liberté d’expression ?",
+    "options": [
+      "Le droit de dire tout ce qu’on veut sans limite",
+      "Le droit d’exprimer ses idées dans le respect de la loi",
+      "Le droit d’insulter les autres",
+      "Le droit de parler uniquement en public"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-091",
+    "number": 91,
+    "category": "rights_and_duties",
+    "question": "Quel droit permet à une personne de se défendre devant la justice ?",
+    "options": [
+      "Le droit de vote",
+      "Le droit à un avocat",
+      "Le droit au logement",
+      "Le droit à la propriété"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-092",
+    "number": 92,
+    "category": "rights_and_duties",
+    "question": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?",
+    "options": [
+      "Le Code civil",
+      "Le Code du travail",
+      "Le Code pénal",
+      "La constitution"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-093",
+    "number": 93,
+    "category": "rights_and_duties",
+    "question": "Quel texte a été adopté pendant la Révolution française ?",
+    "options": [
+      "La Déclaration des droits de l’homme et du citoyen",
+      "La Constitution de 1958",
+      "Le Code civil",
+      "Le traité de Maastricht"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-094",
+    "number": 94,
+    "category": "rights_and_duties",
+    "question": "Quelle liberté permet à une personne de ne pas avoir de religion ?",
+    "options": [
+      "La liberté de circulation",
+      "La liberté de conscience",
+      "La liberté de vote",
+      "La liberté d’expression"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-095",
+    "number": 95,
+    "category": "rights_and_duties",
+    "question": "Une femme peut avorter :",
+    "options": [
+      "Jamais",
+      "Seulement si elle est mariée",
+      "Oui, dans le cadre prévu par la loi",
+      "Seulement avec l’accord du père"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-096",
+    "number": 96,
+    "category": "rights_and_duties",
+    "question": "Est-il toujours possible de divorcer ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, mais seulement pour faute",
+      "Oui, mais seulement après 10 ans de mariage"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-097",
+    "number": 97,
+    "category": "rights_and_duties",
+    "question": "La peine de mort est :",
+    "options": [
+      "Autorisée",
+      "Interdite depuis 1981",
+      "Autorisée pour les crimes graves",
+      "Autorisée en temps de guerre"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-098",
+    "number": 98,
+    "category": "rights_and_duties",
+    "question": "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?",
+    "options": [
+      "Elles n’existent pas",
+      "Elles protègent les autres et l’ordre public",
+      "Elles dépendent de la religion",
+      "Elles sont décidées par les citoyens"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-099",
+    "number": 99,
+    "category": "rights_and_duties",
+    "question": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Oui, si les deux personnes sont d’accord",
+      "Oui, pour les étrangers"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-100",
+    "number": 100,
+    "category": "rights_and_duties",
+    "question": "Faut-il réduire ses déchets ?",
+    "options": [
+      "Non",
+      "Oui, pour protéger l’environnement",
+      "Seulement si on veut",
+      "Seulement en ville"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-101",
+    "number": 101,
+    "category": "rights_and_duties",
+    "question": "Jeter une bouteille dans la rue est :",
+    "options": [
+      "Autorisé",
+      "Interdit",
+      "Autorisé si elle est vide",
+      "Autorisé la nuit"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-102",
+    "number": 102,
+    "category": "rights_and_duties",
+    "question": "Pourquoi les libertés individuelles peuvent-elles être limitées ?",
+    "options": [
+      "Pour protéger l’ordre public et les autres",
+      "Pour empêcher les gens de parler",
+      "Pour favoriser une religion",
+      "Pour contrôler les citoyens"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-103",
+    "number": 103,
+    "category": "rights_and_duties",
+    "question": "Que doit faire une personne en cas d’accident ?",
+    "options": [
+      "Filmer la scène",
+      "Ne rien faire",
+      "Porter assistance ou appeler les secours",
+      "Partir rapidement"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-104",
+    "number": 104,
+    "category": "rights_and_duties",
+    "question": "Que permet la citoyenneté française ?",
+    "options": [
+      "De voyager gratuitement",
+      "De voter et d’être élu",
+      "De ne pas payer d’impôts",
+      "D’avoir un emploi garanti"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-105",
+    "number": 105,
+    "category": "rights_and_duties",
+    "question": "Que risque une personne qui ne respecte pas la loi ?",
+    "options": [
+      "Rien",
+      "Une récompense",
+      "Une sanction",
+      "Une promotion"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-106",
+    "number": 106,
+    "category": "rights_and_duties",
+    "question": "Quel est le rôle de la gendarmerie ?",
+    "options": [
+      "Faire les lois",
+      "Organiser les élections",
+      "Juger les citoyens",
+      "Assurer la sécurité dans les zones rurales"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-107",
+    "number": 107,
+    "category": "rights_and_duties",
+    "question": "Quel est le rôle de la police ?",
+    "options": [
+      "Protéger la population et maintenir l’ordre",
+      "Rédiger les lois",
+      "Juger les infractions",
+      "Diriger les mairies"
+    ],
+    "correctAnswer": 0,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-108",
+    "number": 108,
+    "category": "rights_and_duties",
+    "question": "Qu'est-ce qu'une infraction ?",
+    "options": [
+      "Une bonne action",
+      "Une violation de la loi",
+      "Un acte administratif",
+      "Une récompense"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-109",
+    "number": 109,
+    "category": "rights_and_duties",
+    "question": "Comment peut-on réduire ses déchets ?",
+    "options": [
+      "En jetant tout dans la rue",
+      "En recyclant et en réutilisant",
+      "En achetant plus",
+      "En brûlant ses déchets"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-110",
+    "number": 110,
+    "category": "rights_and_duties",
+    "question": "Déposer une machine à laver cassée sur le trottoir est :",
+    "options": [
+      "Autorisé",
+      "Autorisé le dimanche",
+      "Autorisé si elle est propre",
+      "Interdit"
+    ],
+    "correctAnswer": 3,
+    "answerStatus": "review_needed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform",
+    "answerNote": "Sauf dispositif de collecte autorisé par la commune."
+  },
+  {
+    "id": "csp-111",
+    "number": 111,
+    "category": "rights_and_duties",
+    "question": "En quoi consiste la traite des êtres humains ?",
+    "options": [
+      "Aider les personnes à voyager",
+      "Exploiter ou vendre des êtres humains",
+      "Organiser des mariages",
+      "Aider les personnes à trouver un emploi"
+    ],
+    "correctAnswer": 1,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-112",
+    "number": 112,
+    "category": "rights_and_duties",
+    "question": "Que doit faire une victime de violences ?",
+    "options": [
+      "Se taire",
+      "Fuir le pays",
+      "Demander de l’aide et porter plainte",
+      "Attendre que ça passe"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  },
+  {
+    "id": "csp-113",
+    "number": 113,
+    "category": "rights_and_duties",
+    "question": "Quelle est l'infraction la plus grave ?",
+    "options": [
+      "La contravention",
+      "Le délit",
+      "Le crime",
+      "L’amende"
+    ],
+    "correctAnswer": 2,
+    "answerStatus": "proposed",
+    "answerSource": "Assistant: knowledge-based selection; not official answer key",
+    "points": 1,
+    "language": "fr",
+    "examType": "CSP",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSfY3rfUPVrEyKaG5lEEMqVhkzR4UHdkV_siaW8GpRo-wEWXqQ/viewform"
+  }
+]
