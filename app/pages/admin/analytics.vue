@@ -25,6 +25,11 @@ const periods = [
   { key: 'last7Days', label: 'analyticsLast7' },
   { key: 'last30Days', label: 'analyticsLast30' },
 ] as const
+const sessionMetrics = [
+  { key: 'total', label: 'analyticsSessionsTotal', tone: 'blue' },
+  { key: 'training', label: 'analyticsPracticeSessions', tone: 'paper' },
+  { key: 'exam', label: 'analyticsMockExams', tone: 'paper' },
+] as const
 const numberFormat = computed(() => new Intl.NumberFormat(locale.value))
 </script>
 
@@ -40,6 +45,21 @@ const numberFormat = computed(() => new Intl.NumberFormat(locale.value))
       <CiviqueButton class="justify-self-start" variant="secondary" @click="retry">{{ t('analyticsRetry') }}</CiviqueButton>
     </template>
     <template v-else-if="data">
+      <section class="grid gap-4" aria-labelledby="analytics-started-today">
+        <header class="grid gap-1">
+          <h2 id="analytics-started-today" class="cv-heading">{{ t('analyticsStartedToday') }}</h2>
+          <p class="cv-label cv-muted">{{ t('analyticsParisTime') }}</p>
+        </header>
+        <div class="grid gap-4 sm:grid-cols-3">
+          <CiviqueCard v-for="metric in sessionMetrics" :key="metric.key" :tone="metric.tone">
+            <dl class="grid gap-2">
+              <dt class="cv-label">{{ t(metric.label) }}</dt>
+              <dd class="cv-title tabular-nums">{{ numberFormat.format(data.startedToday[metric.key]) }}</dd>
+            </dl>
+          </CiviqueCard>
+        </div>
+      </section>
+
       <CiviqueCard tone="blue">
         <dl class="grid gap-2">
           <dt class="cv-heading">{{ t('analyticsAccounts') }}</dt>
