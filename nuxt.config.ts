@@ -6,6 +6,9 @@ export default defineNuxtConfig({
   css: ['@fontsource-variable/nunito', '~/assets/css/main.css'],
   vite: { plugins: [tailwindcss()] },
   runtimeConfig: { public: { newsletterPrivacyUrl: '' } },
+  routeRules: {
+    '/admin/analytics': { prerender: false, headers: { 'cache-control': 'private, no-store' } },
+  },
   app: {
     head: {
       htmlAttrs: { lang: 'fr' },

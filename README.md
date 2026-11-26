@@ -86,4 +86,8 @@ TZ=UTC node .output/server/index.mjs
 
 Set `TZ=UTC` on the deployed process. The Nitro scheduler finalizes expired exam sessions every minute and runs daily data cleanup at 03:00 UTC. Progress is calculated from retained completed attempts, so deletions also remove those attempts from statistics. Database migrations are available in `server/modules/infrastructure/migrations`.
 
+### Analytics dashboard
+
+Set `ANALYTICS_ADMIN_USERNAME` and `ANALYTICS_ADMIN_PASSWORD` on the Nuxt server. Open `/admin/analytics` directly and enter those credentials in the browser prompt. Use HTTPS in production. If either variable is empty, access is disabled. The activity counts use retained answers from the last 7 and 30 days.
+
 Before a public release, the product decisions require a published privacy policy, retention and backup policy approval, and verification of any claims about the official examination interface.
